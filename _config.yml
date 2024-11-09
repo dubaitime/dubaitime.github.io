@@ -1,6 +1,6 @@
-name: In-Depth Business Reviews in USA 
-title: In-Depth Business Reviews in USA
-description: Latest business issues and updates
+name: Dubai Time Guide
+title: Dubai Time Guide
+description: Your Real-Time Guide to Dubai Life, Services & Updates
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
@@ -10,12 +10,12 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: Techidn
-    display_name: Techidn
-    email: krvsuite@gmail.com
+    name: DubaiTime
+    display_name: DubaiTime
+    email: adubaitime@gmail.com
     twitter: ''
-    description: "Business enthusiast with a passion for innovation and problem-solving."
-    web: "https://techidn.github.io"
+    description: "Your Real-Time Guide to Dubai Life, Services & Updates"
+    web: "https://dubaitime.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
