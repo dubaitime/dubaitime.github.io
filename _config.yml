@@ -16,7 +16,7 @@ authors:
     twitter: ''
     description: "Your real-time guide to Dubai life to make your expat experience truly exceptional."
     web: "https://dubaitime.github.io"
-    gravatar: 0397aa39d5259d69961beaf1155fa085
+    gravatar: 77791e95da3e5d3f4e471444fc78bf71
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
