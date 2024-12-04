@@ -9,7 +9,7 @@ include:
   - _pages
 permalink: '/:title/'
 authors:
-  techidn:
+  dubaitime:
     name: DubaiTime
     display_name: DubaiTime
     email: adubaitime@gmail.com
