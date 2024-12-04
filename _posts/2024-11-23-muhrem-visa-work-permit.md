@@ -26,6 +26,8 @@ That being said the following can be considered as potential benefits for the de
 
 ## Benefits to the Economy and Expatriates
 
+![Muhrem Visa](/assets/images/muhrem-visa.jpg)
+
 The decisions to allow working permits for men and women who have their family members in the UAE will have the following effects on the economy of the UAE and real expatriates. Some of these benefits include:
 
 1. **Tapping into a large pool of talent**: Since more women and men could get access to work permits, UAE can harness ahead the human capital that can boost up the various industries in terms of productivity.
