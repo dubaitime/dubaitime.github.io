@@ -5,7 +5,7 @@ author: dubaitime
 categories: 
 - UAE Immigration
 image: assets/images/muhrem-visa.jpg
-featured: false
+featured: true
 --- 
 
 The UAE government has in recent past stated that men who reside in the country on their wife’s visa are now allowed to gain employment through work permits in private Companies. This new policy should enhance a large potential human resource, the workforce participation of professional women, maintaining families, and strengthening the economy. 
