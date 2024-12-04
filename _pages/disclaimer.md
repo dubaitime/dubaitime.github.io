@@ -5,22 +5,77 @@ permalink: "/disclaimer"
 comments: true
 ---
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang disclaimer situs kami, jangan ragu untuk menghubungi kami melalui halaman kontak.
+# Privacy Policy for DubaiTime
 
-Semua informasi di website ini diterbitkan dengan itikad baik dan untuk tujuan membagikan tutorial aplikasi terkini (edukasi). Tech IDN tidak membuat jaminan tentang kelengkapan, keandalan dan ketepatan informasi ini. Kami tidak bertanggung jawab atas kesalahan menerjemahkan informasi dari situs ini.
+Welcome to DubaiTime! This Privacy Policy describes how we collect, use, and disclose your information when you use our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
 
-Jika anda menemukan kendala atau keraguan, kami berharap anda menghubungi kami melalui laman kontak. Dari website ini, Anda dapat mengunjungi situs-situs lain dengan mengikuti hyperlink ke situs eksternal tersebut.
+## Information We Collect
 
-Link eksternal tersebut tidak serta merta merupakan afiliasi kami, link tersebut dapat berubah tanpa pemberitahuan kepada kami. Dengan deikian Tech IDN tidak bertanggung jawab jika terdapat informasi dari link tujuan yang tidak sesuai.
+We may collect the following information when you use the Service:
 
-Sementara itu, kami berusaha memperkaya informasi yang anda butuhkan melalu beberapa link external yang berkualitas dan berhubungan dengan apa yang sedang anda baca pada suatu halaman yang sedang anda baca.
+### Non-Personally Identifiable Information (Non-PII)
+This information does not identify you as an individual. It may include:  
+- Browser type  
+- Operating system  
+- IP address  
+- Pages you visit on our website  
+- Dates and times of your visits  
 
-Perlu kami beritahuan juga bahwa, ketika anda mengunjungi dan meninggakan website Tech IDN, mungkin ada beberapa informas yang anda tinggalkan. Lebih lengkap mengenai hal tersebut dapat andad baca pada halaman Privacy Policy
+We collect this information through cookies and similar tracking technologies.
 
-Persetujuan
-Dengan menggunakan website kami, Anda dengan ini menyetujui disclaimer kami dan setuju dengan ketentuan-ketentuannya.
+---
 
-Tim Redaksi Tech IDN
+## How We Use Your Information
 
-Pembaharuan
-Laman disclaimer ini terakhir diperbaharui pada: Kamis, 17 Maret 2022
+We use the information we collect for the following purposes:  
+- To operate and maintain the Service  
+- To improve the user experience  
+- To personalize the content you see on the website  
+- To analyze how the Service is used  
+- To send you updates and information about the Service  
+
+---
+
+## Cookies
+
+We use cookies to store information and preferences on your device. This helps us:  
+- Improve your user experience  
+- Provide a more personalized service  
+
+**Managing Cookies**  
+You can manage or disable cookies through your browser settings. Please note that disabling cookies may limit your ability to use certain features of the Service.
+
+---
+
+## Sharing Your Information
+
+We will not share your information with any third party except in the following circumstances:  
+- To comply with legal requirements or court orders  
+- To protect our rights and property  
+- To protect the safety of users of the Service  
+
+---
+
+## Security
+
+We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no website is 100% secure, and we cannot guarantee the security of your information.
+
+---
+
+## Children's Privacy
+
+Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.  
+
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+
+---
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at **[dubaitime@pm.me]**.
