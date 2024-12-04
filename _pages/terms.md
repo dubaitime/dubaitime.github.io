@@ -5,17 +5,61 @@ permalink: "/terms"
 comments: true
 ---
 
-Terimakasih Atas Kunjungan Anda, Tech IDN adalah media blog edukasi yang membahas perkembangan teknologi berbasis aplikasi serta tutorial terkini. Artikel yang ditulis dalam artikel blog ini diambil dari berbagai sumber, baik online maupun offline.
+# Terms and Conditions for DubaiTime
 
-Beberapa artikel mungkin ditulis ulang dari sumber lain dengan tata bahasa yang berbeda.
-Dengan mengunjungi blog Tech IDN, berarti Anda setuju dengan ketentuan berikut ini:
+Welcome to DubaiTime! By using our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service"), you agree to comply with and be bound by the following terms and conditions. Please read them carefully. If you do not agree with these terms, do not use the Service.
 
-1. Anda setuju untuk tidak menyalin (COPAS) artikel yang ada di dalam blog Tech IDN dengan tujuan untuk ditulis ulang pada situs lain tanpa seijin dari pemilik blog ini.
-2. Anda setuju untuk tidak memperjual belikan, atau mengklaim isi dari situs ini.
-3. Konten gambar yang ada di Tech IDN adalah gambar yang bebas didistribusikan dan dimodifikasi. Jika Anda menemukan gambar milik Anda yang memiliki copyright dan dimuat di blog ini tanpa 4. ijin, mohon menghubungi kami melalui laman kontak dengan senang hati kami akan menghapusnya.
-5. Anda setuju untuk tidak melakukan tindakan yang mengganggu kenyamanan, misalnya memberikan komentar SPAM, dan tindakan lainnya yang dapat mengganggu kenyamanan Tech IDN dan pembacanya.
-6. Anda setuju untuk tidak melakukan klik iklan yang ada di blog Tech IDN secara berulang-ulang.
+---
 
-Pelanggaran
+## 1. Use of the Service
 
-Jika terdapat pelanggaran TOS yang dilakukan oleh pengguna Tech IDN, maka kami sebagai pemilik blog berhak melakukan berbagai tindakan yang memang diperlukan, misalnya menghapus komentar SPAM, memblok IP komputer, atau tindakan lainnya.
+- The content on this website is for general informational purposes only.  
+- You agree to use the Service only for lawful purposes and in a way that does not infringe on the rights of others or restrict their use and enjoyment of the Service.  
+- Unauthorized use of the website may result in a claim for damages or legal consequences.
+
+---
+
+## 2. Intellectual Property
+
+- All content on DubaiTime, including text, images, and graphics, is the intellectual property of DubaiTime unless otherwise stated.  
+- You may not reproduce, distribute, or use any material from the website without prior written permission.
+
+---
+
+## 3. External Links
+
+- The website may include links to third-party websites for your convenience.  
+- DubaiTime is not responsible for the content or practices of any linked websites and does not endorse them.
+
+---
+
+## 4. Disclaimer of Warranties
+
+- The Service is provided "as is" without any warranties, express or implied.  
+- We do not guarantee that the website will be error-free, secure, or uninterrupted.  
+- Your use of the Service is at your own risk.
+
+---
+
+## 5. Limitation of Liability
+
+- DubaiTime shall not be held liable for any damages, including direct, indirect, or incidental damages, arising from your use of the Service.  
+- This limitation applies even if we have been advised of the possibility of such damages.
+
+---
+
+## 6. Changes to the Terms
+
+- We reserve the right to update these Terms and Conditions at any time without prior notice.  
+- Continued use of the Service after changes are made constitutes acceptance of the revised terms.
+
+---
+
+## 7. Governing Law
+
+- These Terms and Conditions are governed by and construed in accordance with the laws of the United Arab Emirates.  
+- Any disputes arising from your use of the Service will be subject to the exclusive jurisdiction of the courts in the UAE.
+
+---
+
+*By accessing and using this website, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.*
