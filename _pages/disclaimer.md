@@ -5,77 +5,54 @@ permalink: "/disclaimer"
 comments: true
 ---
 
-# Privacy Policy for DubaiTime
+# Disclaimer for DubaiTime
 
-Welcome to DubaiTime! This Privacy Policy describes how we collect, use, and disclose your information when you use our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
-
-## Information We Collect
-
-We may collect the following information when you use the Service:
-
-### Non-Personally Identifiable Information (Non-PII)
-This information does not identify you as an individual. It may include:  
-- Browser type  
-- Operating system  
-- IP address  
-- Pages you visit on our website  
-- Dates and times of your visits  
-
-We collect this information through cookies and similar tracking technologies.
+Welcome to DubaiTime! This Disclaimer outlines the limitations of liability and important notices regarding the use of our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
 
 ---
 
-## How We Use Your Information
+## General Information
 
-We use the information we collect for the following purposes:  
-- To operate and maintain the Service  
-- To improve the user experience  
-- To personalize the content you see on the website  
-- To analyze how the Service is used  
-- To send you updates and information about the Service  
+The information provided on this website is for general informational purposes only. While we strive to keep the information accurate and up-to-date, we make no guarantees about the completeness, reliability, or accuracy of the content. Any reliance you place on such information is strictly at your own risk.
 
 ---
 
-## Cookies
+## External Links
 
-We use cookies to store information and preferences on your device. This helps us:  
-- Improve your user experience  
-- Provide a more personalized service  
+The Service may contain links to external websites that are not provided or maintained by, or in any way affiliated with, DubaiTime.  
 
-**Managing Cookies**  
-You can manage or disable cookies through your browser settings. Please note that disabling cookies may limit your ability to use certain features of the Service.
+We do not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites. Users should review the privacy policies and terms of use of those sites before engaging with them.
 
 ---
 
-## Sharing Your Information
+## No Professional Advice
 
-We will not share your information with any third party except in the following circumstances:  
-- To comply with legal requirements or court orders  
-- To protect our rights and property  
-- To protect the safety of users of the Service  
+The content on this website does not constitute professional advice. DubaiTime is not responsible for any actions taken based on the information provided on this site. For professional or specialized advice, consult a qualified expert.
 
 ---
 
-## Security
+## Changes to Content
 
-We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no website is 100% secure, and we cannot guarantee the security of your information.
-
----
-
-## Children's Privacy
-
-Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.  
-
-If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+DubaiTime reserves the right to modify or remove any content on this website at any time without prior notice. We are not obligated to update outdated information or correct inaccuracies, but we strive to maintain the highest standards of content quality.
 
 ---
 
-## Changes to this Privacy Policy
+## Technical Issues
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We aim to ensure uninterrupted access to the Service. However, DubaiTime is not liable for temporary unavailability of the website due to technical issues beyond our control.  
 
 ---
 
-## Contact Us
+## Limitation of Liability
 
-If you have any questions about this Privacy Policy, please contact us at **[dubaitime@pm.me]**.
+In no event shall DubaiTime, its creators, or contributors be liable for any loss or damage, including but not limited to direct, indirect, incidental, consequential, or punitive damages arising from your use of, or inability to use, this website or its content.
+
+---
+
+## Hosting Disclaimer
+
+DubaiTime is hosted on **GitHub Pages**, and certain technical aspects of the Service are managed by GitHub. Users are encouraged to review [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Privacy Policy](https://docs.github.com/privacy) for more information.
+
+---
+
+*By using this website, you agree to this Disclaimer and its terms. If you do not agree, please refrain from using the Service.*
