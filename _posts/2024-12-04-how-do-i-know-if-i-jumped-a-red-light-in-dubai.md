@@ -16,7 +16,7 @@ Sometimes, you may overtake cars at a red light but not be fined because there i
 
 ## 2. Camera-Captured Offense
 
-![jumped-red-light-in-dubai](assets/images/jumped-red-light-in-dubai.jpg)
+![jumped-red-light-in-dubai](/assets/images/jumped-red-light-in-dubai.jpg)
 
 If you were at a junction with a red light camera, the chances of receiving a fine are high if you ran the red light. The fine will be paid by the rental car company, which will then bill you for the amount. The fines could take almost a week or even longer to update and be sent to offenders, so it's wise to stay alert for several weeks after visiting Dubai.
 
