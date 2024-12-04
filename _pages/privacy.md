@@ -1,30 +1,81 @@
 ---
-title: Kebijakan Privasi
+title: Privacy
 layout: page
 permalink: "/privacy"
 comments: true
 ---
 
-Tech IDN sangat memperhatikan privasi Anda. Kebijakan privasi ini menggambarkan informasi pribadi yang kami kumpulkan dan bagaimana kami mengelolanya dengan aman.
+# Privacy Policy for DubaiTime
 
-Koleksi Informasi Rutin
+Welcome to DubaiTime! This Privacy Policy describes how we collect, use, and disclose your information when you use our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
 
-Saat Berkunjung ke situs ini, web server mencatat beberapa informasi dari aktifitas Anda. Informasi ini mencakup, alamat IP, browser, waktu, halaman yang Anda buka, dan link ke halaman website lain. Meskipun demikian, informasi mengenai identitas pribadi pengguna, seperti nama, pasword, akun, tidak dapat diidentifikasi. Informasi yang dilacak berguna untuk keperluan administrasi rutin dan juga bertujuan untuk perawatan website.
+## Information We Collect
 
-Cookies dan Peramban Web
+We may collect the following information when you use the Service:
 
-Jika diperlukan, Tech IDN menggunakan cookies untuk menyimpan informasi tentang preferensi pengunjung dalam rangka memberikan pelayanan dan menyiapkan materi yang sesuai kebutuhan pengunjung.
+### Non-Personally Identifiable Information (Non-PII)
+This information does not identify you as an individual. It may include:  
+- Browser type  
+- Operating system  
+- IP address  
+- Pages you visit on our website  
+- Dates and times of your visits  
 
-Iklan pihak ketiga dan mitra lainnya juga dapat menggunakan cookies, untuk melacak pengunjung ke situs kami untuk menampilkan iklan dan informasi lain yang masih relevan. Pelacakan tersebut dilakukan langsung oleh pihak ketiga melalui server mereka, dan mereka memiliki kebijakan privasi sendiri.
+We collect this information through cookies and similar tracking technologies.
 
-Mengontrol Privasi Anda
+---
 
-Anda dapat mengubah pengaturan browser Anda untuk menonaktifkan cookies jika Anda menginginkannya. Menonaktifkan cookies untuk semua situs tidak dianjurkan karena dapat mengganggu penggunaan beberapa situs. Pilihan terbaik adalah dengan menonaktifkan atau mengaktifkan cookies untuk situs tertentu yang Anda inginkan. Periksa dokumentasi browser Anda untuk instruksi bagaimana cara memblokir cookies dan mekanisme pelacakan lainnya.
+## How We Use Your Information
 
-Catatan Khusus Tentang Periklanan Google
+We use the information we collect for the following purposes:  
+- To operate and maintain the Service  
+- To improve the user experience  
+- To personalize the content you see on the website  
+- To analyze how the Service is used  
+- To send you updates and information about the Service  
 
-Setiap iklan yang disajikan oleh Google.Inc, dan perusahaan afiliasi dapat dikendalikan dengan menggunakan Cookies. Cookies ini memungkinkan Google untuk menampilkan iklan yang relevan berdasarkan kunjungan Anda ke situs ini dan situs lainnya yang menggunakan layanan iklan Google. Pelajari cara untuk menghindari penggunaan cookies Google di browser Anda bila Anda tidak menginginkannya. Sebagaimana disebutkan di atas, setiap pelacakan dilakukan oleh Google melalui cookies dan mekanisme lain yang tunduk pada kebijakan privasi Google sendiri.
+---
 
-Informasi Kontak
+## Cookies
 
-Jika Anda memiliki pertanyaan tentang kebijakan privasi Tech IDN kami sangat senang jika Anda dapat menghubungi kami melalui halaman kontak.
+We use cookies to store information and preferences on your device. This helps us:  
+- Improve your user experience  
+- Provide a more personalized service  
+
+**Managing Cookies**  
+You can manage or disable cookies through your browser settings. Please note that disabling cookies may limit your ability to use certain features of the Service.
+
+---
+
+## Sharing Your Information
+
+We will not share your information with any third party except in the following circumstances:  
+- To comply with legal requirements or court orders  
+- To protect our rights and property  
+- To protect the safety of users of the Service  
+
+---
+
+## Security
+
+We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no website is 100% secure, and we cannot guarantee the security of your information.
+
+---
+
+## Children's Privacy
+
+Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.  
+
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+
+---
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at **[dubaitime@pm.me]**.
