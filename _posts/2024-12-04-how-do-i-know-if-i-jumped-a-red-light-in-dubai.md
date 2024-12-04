@@ -10,13 +10,13 @@ featured: true
 
 New traffic offenders in Dubai are often caught running a red light, which results in heavy fines, black points on your license, and even the confiscation of your car. The consequences depend on several factors, such as whether there were cameras monitoring the intersection. In this article, you will learn how to know if you have gone through a red light, the penalties you might face, and what to do when penalized.
 
-![jumped-red-light-in-dubai](assets/images/jumped-red-light-in-dubai.jpg)
-
 ## 1. No Camera, No Fine
 
 Sometimes, you may overtake cars at a red light but not be fined because there is no camera to record your violation. However, this is not always the case. Even without a camera, a police officer might have witnessed your violation and issued a fine.
 
 ## 2. Camera-Captured Offense
+
+![jumped-red-light-in-dubai](assets/images/jumped-red-light-in-dubai.jpg)
 
 If you were at a junction with a red light camera, the chances of receiving a fine are high if you ran the red light. The fine will be paid by the rental car company, which will then bill you for the amount. The fines could take almost a week or even longer to update and be sent to offenders, so it's wise to stay alert for several weeks after visiting Dubai.
 
