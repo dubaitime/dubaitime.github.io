@@ -1,7 +1,7 @@
 ---
 title: Global Village Dubai - Close and Open Hours
 layout: post
-author: dubaitime
+author: DubaiTime
 categories: 
 - Tourist Destination
 image: assets/images/Global Village Dubai.jpg
