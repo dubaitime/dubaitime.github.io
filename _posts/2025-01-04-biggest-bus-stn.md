@@ -29,7 +29,7 @@ The Gold Souq Bus Station, located near the famous Gold Souq, is a major termina
 ## Conclusion
 The UAE's public transport infrastructure revolves around these major bus stations, enabling efficient travel within and between emirates. With strategic locations, extensive route networks, and modern facilities, these hubs play a crucial role in meeting the transportation needs of the UAE's growing population.
 
-### Reference:
+### References:
 - Stations.ae
 - [Al Jubail Bus Station](https://uaetiming.com/complete-guide-to-al-jubail-bus-station-2-bus-stop-in-sharjah/)
 - Dubai-Online.com
