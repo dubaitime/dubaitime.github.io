@@ -4,7 +4,7 @@ layout: post
 author: dubaitime
 categories: 
 - Public Transport
-image: assets/images/bus-stn.jpeg
+image: assets/images/bus-stn.jpg
 featured: true
 --- 
 
