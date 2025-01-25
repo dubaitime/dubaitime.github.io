@@ -1,11 +1,14 @@
-<!doctype html>
+                                                        <!doctype html>
 <html ⚡>
   <head>
+    <link rel="shortcut icon" sizes="any" type="image/vnd.microsoft.icon" href="../assets/images/favicon.ico"/>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="{{page.description}} | Web Stories">
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async custom-element="amp-story-auto-ads" src="https://cdn.ampproject.org/v0/amp-story-auto-ads-0.1.js"></script>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-video"
         src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
@@ -28,7 +31,7 @@
       }
       h1 {
         font-weight: 700;
-        font-size: 2.875em;
+        font-size: 2em;
         line-height: 1.5;
         background-color: #ffde37;
         box-shadow: 8px 1px 0 3px #ffde37, -8px 1px 0 3px #ffde37;
@@ -48,11 +51,13 @@
         line-height: 1.7;
       }      
       p {
-        font-weight: normal;
-        font-size: 1.4em;
-        line-height: 1.5em;
-        color: #fff;
-        background-color:rgba(0,0,0,0.4)
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #fff;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.6);
+    border-bottom: 4px yellow solid;
       }
       q {
         font-weight: 300;
@@ -117,6 +122,63 @@
       .blurimage{
         filter:blur(2px) brightness(90%);
       }
+      
+#arrowAnim {
+  width: 75vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  margin-top: -25px;
+}
+
+.arrow {
+  width: 3vw;
+  height: 3vw;
+  border: 2vw solid;
+  border-color: white transparent transparent white;
+  transform: rotate(-225deg);
+}
+
+
+.arrowSliding {
+  position: absolute;
+  -webkit-animation: slide 4s linear infinite; 
+          animation: slide 4s linear infinite;
+}
+
+.delay1 {
+  -webkit-animation-delay: 1s; 
+    animation-delay: 1s;
+}
+.delay2 {
+  -webkit-animation-delay: 2s; 
+    animation-delay: 2s;
+}
+.delay3 {
+  -webkit-animation-delay: 3s; 
+    animation-delay: 3s;
+}
+
+@-webkit-keyframes slide {
+    0% { opacity:0; transform: translateX(15vw); }	
+   20% { opacity:1; transform: translateX(9vw); }	
+   80% { opacity:1; transform: translateX(-9vw); }	
+  100% { opacity:0; transform: translateX(-15vw); }	
+}
+@keyframes slide {
+    0% { opacity:0; transform: translateX(15vw); }	
+   20% { opacity:1; transform: translateX(9vw); }	
+   80% { opacity:1; transform: translateX(-9vw); }	
+  100% { opacity:0; transform: translateX(-15vw); }	
+}
+
+@keyframes zoom-out {
+  100% {
+    transform: scale(1.2);
+  }
+}
 
     </style>
   </head>
@@ -125,9 +187,20 @@
     <amp-story standalone
         title="{{page.cover.title}}"
         publisher="{{ site.url }}"
-        publisher-logo-src="/images/ampfavicon.png"
-        poster-portrait-src="/images/amp-poster.png">
-      <amp-story-page id="cover">
+        publisher-logo-src="/stories/assets/images/ampfavicon.png"
+        poster-portrait-src="{{page.image}}">
+          <amp-story-auto-ads>
+  <script type="application/json">
+   {
+    "ad-attributes": {
+     "type": "adsense",
+     "data-ad-client": "ca-pub-3141717106817809",
+     "data-ad-slot": "9322355398"
+    }
+   }
+   </script>
+   </amp-story-auto-ads>
+      <amp-story-page id="cover" auto-advance-after="7s">
           {% if page.cover.background %}
         <amp-story-grid-layer template="fill">
           <amp-img src="{{page.cover.background}}"
@@ -146,11 +219,11 @@
 
 {% for page in page.pages %}
 
-<amp-story-page id="page{{forloop.index}}">
+<amp-story-page id="page{{forloop.index}}" auto-advance-after="7s">
 
 {% if page.background %}
   <amp-story-grid-layer template="fill">
-    <amp-img src="{{page.background}}" 
+    <amp-img animate-in="pan-left" animate-in-duration="5s" src="{{page.background}}" 
         width="720" height="1280"
         layout="responsive" {% if page.backgroundblur %}class="blurimage"{% endif %}>
     </amp-img>
@@ -172,13 +245,27 @@
 
 <amp-story-grid-layer template="thirds" class="center" {% if page.textcolor %}style="color:{{page.textcolor}}"{%endif%}>
   {% if page.top %}
-  <div grid-area="upper-third">{{page.top}}</div>
+  <div animate-in="fly-in-top" grid-area="upper-third">{{page.top}}</div>
   {% endif %}
   {% if page.middle %}
-  <div grid-area="middle-third">{{page.middle}}</div>
+  <div grid-area="middle-third" animate-in="pulse" animate-in-delay="0.2s" >{{page.middle}}</div>
   {% endif %}
   {% if page.bottom %}
-  <div grid-area="lower-third">{{page.bottom}}</div>
+<div animate-in="fade-in" animate-in-delay="0.6s" id="arrowAnim">
+  <div class="arrowSliding">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay1">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay2">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay3">
+    <div class="arrow"></div>
+  </div>
+</div>
+  <div grid-area="lower-third" animate-in="whoosh-in-left" animate-in-delay="0.5s">{{page.bottom}}</div>
   {% endif %}  
 </amp-story-grid-layer>
 
@@ -199,7 +286,7 @@
   <script type="application/json">
   {
     "vars": {
-      "account": "UA-251722226-5"
+      "account": ""
     },
     "triggers": {
       "trackPageview": {
@@ -210,7 +297,6 @@
   }
   </script>
   </amp-analytics>
-
       <!-- Bookend -->
       <amp-story-bookend src="/bookend.json" layout="nodisplay"></amp-story-bookend>
     </amp-story>
