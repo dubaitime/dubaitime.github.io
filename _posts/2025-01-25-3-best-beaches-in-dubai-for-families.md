@@ -1,7 +1,7 @@
 ---
 layout: ampstory
 image: https://i0.wp.com/ws.aproinov.com/wp-content/uploads/2025/01/Cover-Dubai-Beaches.jpg?resize=720,1280
-author: techidn
+author: dubaitime
 featured: true
 description: Both kid-and parent-friendly recreation areas exist at Dubai’s beach locations where families find amusement alongside relaxation opportunities. Discover the top three destinations that families will enjoy throughout their visit.
 title: 3 Best Beaches in Dubai for Families
