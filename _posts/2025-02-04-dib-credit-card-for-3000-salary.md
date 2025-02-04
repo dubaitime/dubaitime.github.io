@@ -28,6 +28,8 @@ Through **Al Islami Personal Finance**, DIB provides financial services to UAE n
 - **Flexible Tenure:** Up to 48 months
 - **Quick Processing**
 
+See also: [Medical Coder Jobs in UAE for Fresher](https://dubaitime.github.io/medical-coder-jobs-in-uae-for-fresher/)
+
 ## Alternatives to DIB Credit Cards for AED 3,000 Salary Earners
 Other [alternative banking options]( https://medium.com/@fairobagoes/the-top-3-banks-for-salary-account-in-uae-017f010dca56) should be your next consideration if DIB denies credit card approval:
 
@@ -62,6 +64,8 @@ The UAE banking system requires applicants to earn at least AED 5,000 monthly sa
 2. **Maintain a Good Banking History:** The approval process for credit applications becomes more likely when you demonstrate consistent financial history at the bank.
 3. **Consider Secured Credit Cards:** Some banks allow customers to use secured credit cards through depositing collateral funds as security.
 4. **Apply for a Personal Loan Instead:** A personal loan represents a more suitable alternative than credit cards when you cannot access them for expense management.
+
+See also: [du Unlimited Data for One Day](https://dubaitime.github.io/du-unlimited-data-for-one-day/)
 
 ## Conclusion
 The acquisition of a credit card at AED 3,000 salary remains challenging yet Dubai Islamic Bank (DIB) along with other banking institutions can offer financial aid. You can either work on your banking record to qualify for a credit card or select personal finance products instead of cards when a credit card is necessary.
