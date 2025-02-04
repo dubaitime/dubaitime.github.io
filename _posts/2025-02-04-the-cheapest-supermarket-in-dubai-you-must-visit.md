@@ -12,7 +12,7 @@ The luxurious reputation of Dubai does not require expensive grocery shopping be
 
 ## 1. Viva Supermarket – The Cheapest Option
 
-![viva-supermarket](assets/images/viva-supermarket.jpeg)
+![viva-supermarket](/assets/images/viva-supermarket.jpeg)
 
 Dubai residents consider **Viva Supermarket** to be the least expensive grocery store within the city. The discount supermarket provides cheaper prices for its store brands rather than international brand products. The store limits its product range which means you will need to shop elsewhere for specific items.
 
