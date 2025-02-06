@@ -125,3 +125,6 @@ If you prefer online shopping, you can also check out:
 Viva Supermarket stands as the most budget-friendly supermarket in Dubai but its products have restricted availability. The combination of savings with an ample product selection makes Nesto and Lulu Hypermarket perfect choices for customers.
 
 Baqer Mohebi and Bismi serve wholesale customers with discounted prices, and the Ras Al Khor Market delivers cheap fresh produce. Dubai shoppers who carefully evaluate prices between different stores will save substantially on their food bills.  Happy shopping!
+
+References:
+- [The 7 Biggest Supermaket in Dubai](https://uaetiming.com/top-7-biggest-supermarkets-in-dubai/)
