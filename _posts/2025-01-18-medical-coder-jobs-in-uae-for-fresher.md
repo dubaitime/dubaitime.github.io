@@ -11,7 +11,7 @@ featured: true
 Due to the soaring medical sector of the UAE, there are medical coders to be employed. This guide will take you through the mandatory information, requirements, and tips you need to know if you are a fresher and thinking to have a career as a medical coder in the UAE.
 
 ## What is a Medical Coder?
-A medical coder is a professional who translates medical procedures, diagnosis, and treatment into standardized codes. These are used for insurance claim purposes, patient records, and statistical purposes. A healthcare role combining knowledge of healthcare and administrative skills.
+A medical coder is a professional who translates medical procedures, diagnosis, and treatment into standardized codes. These are used for insurance claim purposes, patient records, and statistical purposes. A healthcare role combining knowledge of healthcare and administrative skills. See also: [Dubai Jobs for February 2025](https://uaejobs.gitlab.io/jobs/dubai-job-vacancies-february-2025.html)
 
 ## Qualifications and Certifications for Freshers
 
