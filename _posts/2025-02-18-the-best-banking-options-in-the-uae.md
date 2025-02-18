@@ -1,7 +1,7 @@
 ---
 layout: ampstory
 image: https://i0.wp.com/ws.aproinov.com/wp-content/uploads/2025/02/Cover-Top-Banks-in-UAE.jpg?resize=720,1280
-author: techidn
+author: dubaitime
 featured: true
 description: The top banks in the UAE direct financial expansion through their personal and corporate and Islamic banking services which emphasize stability and innovation.
 title: The Best Banking Options in the UAE
