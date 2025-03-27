@@ -20,6 +20,7 @@ According to the comprehensive survey by Numbeo, a crowd-sourced online database
 The UAE's achievement is part of a broader success for Gulf Cooperation Council (GCC) countries:  
 - Qatar secured third place with a safety index of 84.2  
 - Oman rounded out the top five with a score of 81.7  
+
 This remarkable performance highlights the region's focus on security, law enforcement, and social stability.  
 
 ## What Makes the UAE So Safe?  
