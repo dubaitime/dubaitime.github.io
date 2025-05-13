@@ -18,28 +18,24 @@
 
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 <script type="text/javascript">
-const currentURL = window.location.hostname;
+    (function () {
+        const currentPath = window.location.pathname;
 
-if (currentURL === "https://dubaitime.github.io/how-do-i-know-if-i-jumped-a-red-light-in-dubai/") {
-    window.location.href = "https://www.kobi-id.org/post/how-to-check-if-you-jumped-a-red-light-in-dubai/";
-} else if (currentURL === "https://dubaitime.github.io/the-cheapest-supermarket-in-dubai-you-must-visit/") {
-    window.location.href = "https://www.kobi-id.org/post/the-cheapest-supermarket-in-dubai-you-need-to-know/";
-} else if (currentURL === "https://dubaitime.github.io/biggest-bus-stn/") {
-    window.location.href = "https://www.kobi-id.org/post/the-biggest-bus-station-in-dubai-you-should-know/";
-} else if (currentURL === "https://dubaitime.github.io/top-5-sites-to-check-dubai-gold-rate-today/") {
-    window.location.href = "https://www.kobi-id.org/post/top-5-websites-to-check-dubai-gold-rate/";
-} else if (currentURL === "https://dubaitime.github.io/the-best-banking-options-in-the-uae/") {
-    window.location.href = "https://www.kobi-id.org/post/best-banking-options-in-the-uae-for-expats-and-locals/";
-} else {
-    // Optional fallback
-    window.location.href = "https://www.kobi-id.org/";
-}
-</script>
-	
-<script type="text/javascript">
-if (window.location = "dubaitime.github.io") {
-   window.location.href = 'https://www.kobi-id.org/'; 
-}
+        const redirects = {
+            "/how-do-i-know-if-i-jumped-a-red-light-in-dubai/": "https://www.kobi-id.org/post/how-to-check-if-you-jumped-a-red-light-in-dubai/",
+            "/the-cheapest-supermarket-in-dubai-you-must-visit/": "https://www.kobi-id.org/post/the-cheapest-supermarket-in-dubai-you-need-to-know/",
+            "/biggest-bus-stn/": "https://www.kobi-id.org/post/the-biggest-bus-station-in-dubai-you-should-know/",
+            "/top-5-sites-to-check-dubai-gold-rate-today/": "https://www.kobi-id.org/post/top-5-websites-to-check-dubai-gold-rate/",
+            "/the-best-banking-options-in-the-uae/": "https://www.kobi-id.org/post/best-banking-options-in-the-uae-for-expats-and-locals/"
+        };
+
+        if (redirects[currentPath]) {
+            window.location.href = redirects[currentPath];
+        } else {
+            // Fallback redirect
+            window.location.href = "https://www.kobi-id.org/";
+        }
+    })();
 </script>
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9974005922060163" crossorigin="anonymous"></script>
