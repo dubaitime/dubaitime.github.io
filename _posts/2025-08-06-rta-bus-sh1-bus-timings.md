@@ -84,6 +84,7 @@ Travelers using the SH1 route can visit some of the most important attractions a
 
 ## Journey Experience
 The SH1 bus route between Dubai Mall Metro Landside and Hartland Greens provides an interesting insight into the life of Dubai. Beginning with the famous Dubai Mall, which is known to be a shopping and entertainment centre, passengers will be able to gaze at the Burj Khalifa and the Dubai Aquarium.  
+
 As the bus passes through the busy neighborhoods such as Sobha Hartland, Vistas Central, and Park view, it displays the green environment that is ideal to accommodate families. The last stop is Hartland Greens, an affluent residential community with beautiful parks and facilities. The journey back gives the traveler a chance to absorb the vibrant energy of the city that combines innovation, nature, and community life.
 
 ## Tips and Travel Advice
