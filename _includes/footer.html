@@ -1,0 +1,36 @@
+<footer class="bnef-footer">
+    <div class="bnef-footer-container">
+        <div class="bnef-footer-brand">
+            <h2 class="bnef-logo-footer">Dubai<strong>Time</strong></h2>
+            <p class="bnef-footer-desc">Your real-time guide to Dubai life, services &amp; updates — trusted by residents and visitors across the UAE.</p>
+            <a href="{{ '/about' | relative_url }}" class="btn-black">About Us</a>
+        </div>
+        <nav class="bnef-footer-links" aria-label="Footer navigation">
+            <div class="bnef-footer-col">
+                <h3>Transport & Data</h3>
+                <ul>
+                    <li><a href="{{ '/du-unlimited-data-for-one-day/' | relative_url }}">Du Data</a></li>
+                    <li><a href="{{ '/biggest-bus-stn/' | relative_url }}">Biggest Bus Station</a></li>
+                </ul>
+            </div>
+            <div class="bnef-footer-col">
+                <h3>City Guides</h3>
+                <ul>
+                    <li><a href="{{ '/the-cheapest-supermarket-in-dubai-you-must-visit/' | relative_url }}">Cheap Supermarkets</a></li>
+                    <li><a href="{{ '/how-do-i-know-if-i-jumped-a-red-light-in-dubai/' | relative_url }}">Red Light Fines</a></li>
+                </ul>
+            </div>
+            <div class="bnef-footer-col">
+                <h3>Static Pages</h3>
+                <ul>
+                    <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
+                    <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a></li>
+                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="bnef-footer-bottom">
+        <p>&copy; {{ 'now' | date: "%Y" }} DubaiTime. All rights reserved.</p>
+    </div>
+</footer>

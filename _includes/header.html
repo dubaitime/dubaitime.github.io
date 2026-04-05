@@ -1,0 +1,33 @@
+<header class="bnef-header">
+	<div class="bnef-logo">
+		<a href="{{ '/' | relative_url }}">Dubai<strong>Time</strong></a>
+	</div>
+	
+	<button class="mobile-menu-toggle" aria-label="Toggle Menu">
+		<i class="fas fa-bars"></i>
+	</button>
+
+	<div class="bnef-nav-wrapper">
+		<nav class="bnef-nav" aria-label="Main navigation">
+			<ul>
+				<li><a href="{{ '/' | relative_url }}">Home</a></li>
+				<li><a href="{{ '/kalba-to-sharjah-611-bus-timings/' | relative_url }}">Bus Timings</a></li>
+				<li><a href="{{ '/top-5-sites-to-check-dubai-gold-rate-today/' | relative_url }}">Gold Rate</a></li>
+			</ul>
+		</nav>
+		<div class="bnef-actions">
+			<a href="{{ '/about' | relative_url }}" class="btn-outline">About</a>
+		</div>
+	</div>
+</header>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		var toggle = document.querySelector('.mobile-menu-toggle');
+		var nav = document.querySelector('.bnef-nav-wrapper');
+		if(toggle && nav) {
+			toggle.addEventListener('click', function() {
+				nav.classList.toggle('is-open');
+			});
+		}
+	});
+</script>

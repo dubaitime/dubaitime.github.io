@@ -1,0 +1,57 @@
+name: Dubai Time
+title: Dubai Time
+description: Your Real-Time Guide to Dubai News, Services & Updates
+logo: assets/images/idnlogos.png
+favicon: assets/images/techico.png
+baseurl: ''
+url: "https://dubaitime.github.io"
+app_name: "Dubai Time"
+app_description: "Your real-time guide to Dubai news, transport, services and lifestyle — trusted by UAE residents and expats."
+default_og_image: "assets/images/hero-cover.jpg"
+google_analytics: 'UA-209667013-4'
+include:
+  - _pages
+permalink: '/:title/'
+authors:
+  dubaitime:
+    name: DubaiTime
+    display_name: DubaiTime
+    email: adubaitime@gmail.com
+    twitter: ''
+    description: "Your real-time guide to Dubai life to make your expat experience truly exceptional."
+    web: "https://dubaitime.github.io"
+    gravatar: 77791e95da3e5d3f4e471444fc78bf71
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+paginate: 6
+paginate_path: '/page:num/'
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+adsense: 'disabled'
+adsense-data-ad-client: 'ca-pub-9071991042477013'
+adsense-data-ad-slot: '7908225664'
+lazyimages: 'enabled'
+exclude:
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+jekyll_admin:
+  hidden_links:
+    - datafiles
