@@ -4,7 +4,7 @@ layout: post
 author: dubaitime
 categories:
 - Bus Timings
-image: https://uaetiming.com/wp-content/uploads/2024/10/D-Bus-55-Cover.jpg
+image: https://cdn.emzeth.com/img/2024/10/D-Bus-55-Cover.jpg
 featured: true
 ---
 
