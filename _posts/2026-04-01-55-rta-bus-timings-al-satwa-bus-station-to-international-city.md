@@ -14,8 +14,7 @@ This bus route ensures smooth connectivity through key commercial and residentia
 
 The Bus 55 operates throughout the day, starting early in the morning at 6:00 AM from Al Satwa Bus Station and running late into the night to accommodate various travel needs.
 
- {"className":"is-style-stripes"}| From Al Satwa Bus Station | From International City |
-
+| From Al Satwa Bus Station | From International City |
 |---|---|
 | 06:00 | 05:40 |
 | 06:45 | 05:59 |
@@ -69,7 +68,7 @@ Ticket Pricing: Payments for Bus 55 are made through the Nol card system, Dubai'
 
 Bus 55 departs from Al Satwa Bus Station and makes several important stops before reaching its final destination at International City, Persia District. Key stops include:
 
- {"ordered": true}1. Satwa Bus Station – The main starting point, providing connections to other buses and Dubai's metro system.
+1. Satwa Bus Station – The main starting point, providing connections to other buses and Dubai's metro system.
 
 2. Satwa, Masjid – A community-focused stop, conveniently located near local shops and services.
 
@@ -137,11 +136,9 @@ For those looking to explore more of Dubai, Bus 55 also connects conveniently to
 
 Throughout the journey, passengers can access several major attractions and landmarks:
 
- {"ordered": true,"start":1}1. World Trade Centre – A hub for exhibitions, conferences, and corporate events.
+1. World Trade Centre – A hub for exhibitions, conferences, and corporate events.
 
-2.
-
-3. Ras Al Khor Wildlife Sanctuary – Located near the industrial area, it's one of Dubai's most unique natural reserves, home to flamingos and other bird species.
+2. Ras Al Khor Wildlife Sanctuary – Located near the industrial area, it's one of Dubai's most unique natural reserves, home to flamingos and other bird species.
 
 ## Journey Experience
 
