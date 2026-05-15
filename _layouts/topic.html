@@ -1,0 +1,89 @@
+---
+layout: default
+---
+{% assign topic_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign has_match = false %}
+  {% for cat in post.categories %}
+    {% if page.category_match contains cat %}
+      {% assign has_match = true %}
+    {% endif %}
+  {% endfor %}
+  {% if has_match %}
+    {% assign topic_posts = topic_posts | push: post %}
+  {% endif %}
+{% endfor %}
+{% assign topic_posts = topic_posts | sort: "date" | reverse %}
+<div class="topic-page-wrapper">
+    <section class="topic-hero-minimal">
+        <div class="container">
+            <nav class="topic-breadcrumb-minimal" aria-label="Breadcrumb">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <span class="sep">›</span>
+                <span aria-current="page">{{ page.title }}</span>
+            </nav>
+            <div class="topic-hero-label-minimal">TOPIC HUB</div>
+            <h1 class="topic-hero-title-minimal">{{ page.title }}</h1>
+            {% if page.description %}
+            <p class="topic-hero-desc-minimal">{{ page.description }}</p>
+            {% endif %}
+        </div>
+    </section>
+
+    <div class="topic-divider-full"></div>
+
+    <section class="topic-posts-minimal">
+        <div class="container">
+            <div class="topic-posts-header-minimal">
+                <h2>{{ topic_posts.size }} guide{% unless topic_posts.size == 1 %}s{% endunless %} in {{ page.title }}</h2>
+            </div>
+            
+            {% if topic_posts.size > 0 %}
+            <div class="topic-postlist-grid">
+                {% for post in topic_posts %}
+                <article>
+                    <a href="{{ post.url | relative_url }}" class="topic-post-card">
+                        <div class="topic-post-image">
+                            {% if post.image %}
+                            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                            {% else %}
+                            <div class="placeholder-image" style="background: #eee; width: 100%; aspect-ratio: 16/10;"></div>
+                            {% endif %}
+                        </div>
+                        <div class="topic-post-body">
+                            <span class="topic-post-category">{{ page.title | upcase }}</span>
+                            <h3 class="topic-post-title">{{ post.title }}</h3>
+                            <span class="topic-post-date">{{ post.date | date: "%d %B %Y" }}</span>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+            {% else %}
+            <p class="no-posts-notice">Articles for this topic will be published soon.</p>
+            {% endif %}
+        </div>
+    </section>
+
+    {% if page.related_topics %}
+    <section class="topic-related-section" style="margin-top: 60px; border-top: 1px solid #eaeaea; padding-top: 40px;">
+        <div class="container">
+            <h2 style="font-size: 2.4rem; font-weight: 700; color: #111; margin-bottom: 24px;">Explore Related Topics</h2>
+            <div class="topics-index-grid">
+                {% for related_slug in page.related_topics %}
+                {% assign related = site.topics | where: "slug", related_slug | first %}
+                {% if related %}
+                <a href="{{ related.url | relative_url }}" class="topic-index-card" id="topic-{{ related.slug }}">
+                    <div class="topic-index-icon">{{ related.icon | default: "📌" }}</div>
+                    <div class="topic-index-body">
+                        <strong class="topic-index-title">{{ related.title }}</strong>
+                        <p class="topic-index-desc">{{ related.description | truncate: 100 }}</p>
+                    </div>
+                </a>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+    {% endif %}
+</div>

@@ -1,0 +1,210 @@
+/* =====================================================
+   Topic Hub Cards — BNEF-style soft blue, line icons
+   ===================================================== */
+
+.topics-index-section {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 48px 20px 60px;
+}
+
+.topics-index-intro {
+    margin-bottom: 40px;
+}
+
+.topics-index-intro h1 {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #0f1523;
+    margin: 0 0 12px;
+    line-height: 1.2;
+}
+
+.topics-index-intro p {
+    font-size: 1.5rem;
+    color: #5a6272;
+    line-height: 1.65;
+    max-width: 640px;
+    margin: 0;
+}
+
+/* ---- Grid ---- */
+.topics-index-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+/* ---- Card ---- */
+.topic-index-card {
+    background-color: #eef5ff;
+    border: 1px solid #d9e8ff;
+    border-radius: 14px;
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+
+.topic-index-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 32px rgba(29, 99, 234, 0.09);
+    border-color: #b3ccff;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ---- Icon wrapper ---- */
+.topic-index-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    background-color: #d6e7ff;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    color: #1d63ea;
+    flex-shrink: 0;
+    transition: background-color 0.22s ease;
+}
+
+.topic-index-card:hover .topic-index-icon {
+    background-color: #c3d9ff;
+}
+
+.topic-index-icon svg {
+    display: block;
+    width: 26px;
+    height: 26px;
+    stroke: #1d63ea;
+}
+
+/* ---- Body ---- */
+.topic-index-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.topic-index-title {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #1d4ed8;
+    line-height: 1.35;
+    margin: 0 0 10px;
+    display: block;
+    transition: color 0.2s;
+}
+
+.topic-index-card:hover .topic-index-title {
+    color: #1447b2;
+}
+
+.topic-index-desc {
+    font-size: 1.3rem;
+    color: #4b5879;
+    line-height: 1.65;
+    margin: 0 0 18px;
+    flex-grow: 1;
+}
+
+.topic-index-count {
+    display: inline-block;
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #1d63ea;
+    background-color: #d6e7ff;
+    border-radius: 20px;
+    padding: 3px 11px;
+    letter-spacing: 0.01em;
+    align-self: flex-start;
+    margin-top: auto;
+}
+
+/* =====================================================
+   Responsive
+   ===================================================== */
+
+@media only screen and (max-width: 1024px) {
+    .topics-index-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .topics-index-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+
+    .topics-index-intro h1 {
+        font-size: 2.4rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .topics-index-section {
+        padding: 32px 16px 48px;
+    }
+
+    .topics-index-intro {
+        margin-bottom: 28px;
+    }
+
+    .topics-index-intro h1 {
+        font-size: 2rem;
+    }
+
+    .topics-index-intro p {
+        font-size: 1.3rem;
+    }
+
+    .topics-index-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+    }
+
+    .topic-index-card {
+        padding: 20px 18px;
+        border-radius: 12px;
+    }
+
+    .topic-index-icon {
+        width: 44px;
+        height: 44px;
+        margin-bottom: 14px;
+        border-radius: 10px;
+    }
+
+    .topic-index-icon svg {
+        width: 22px;
+        height: 22px;
+    }
+
+    .topic-index-title {
+        font-size: 1.45rem;
+    }
+
+    .topic-index-desc {
+        font-size: 1.2rem;
+        margin-bottom: 14px;
+        /* Hide description on very small screens to keep cards tight */
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .topics-index-grid {
+        grid-template-columns: 1fr;
+    }
+}

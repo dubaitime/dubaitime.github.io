@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dubaitime.github.io/sitemap.xml

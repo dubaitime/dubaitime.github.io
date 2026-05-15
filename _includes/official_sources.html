@@ -1,0 +1,30 @@
+{% assign categories_text = page.categories | join: '|' | downcase %}
+<section class="official-sources" aria-label="Official source references">
+    <h2>Official UAE Sources</h2>
+    <p>For the latest schedules, fares, and policy updates, verify with these primary sources:</p>
+    <ul>
+        {% if page.official_sources and page.official_sources.size > 0 %}
+            {% for source in page.official_sources %}
+            <li><a href="{{ source.url }}" target="_blank" rel="noopener noreferrer">{{ source.name }}</a></li>
+            {% endfor %}
+        {% elsif categories_text contains 'bus timings' or categories_text contains 'bus-timings' or categories_text contains 'public transport' or categories_text contains 'trip planner' %}
+            <li><a href="https://www.rta.ae/wps/PA_JourneyPlanner/Home.html" target="_blank" rel="noopener noreferrer">RTA Journey Planner</a></li>
+            <li><a href="https://www.rta.ae/wps/PA_JourneyPlanner/DownloadTimetableServlet?lineId=dub:10100:%20:H:y08&amp;lineName=bus%20E100" target="_blank" rel="noopener noreferrer">RTA Intercity Timetable Reference (E100)</a></li>
+            <li><a href="https://admobility.gov.ae/" target="_blank" rel="noopener noreferrer">Abu Dhabi Mobility</a></li>
+            <li><a href="https://www.srta.gov.ae/" target="_blank" rel="noopener noreferrer">Sharjah Roads and Transport Authority (SRTA)</a></li>
+        {% elsif categories_text contains 'uae-visa-id' or categories_text contains 'uae immigration' %}
+            <li><a href="https://icp.gov.ae/" target="_blank" rel="noopener noreferrer">Federal Authority for Identity, Citizenship, Customs & Port Security (ICP)</a></li>
+            <li><a href="https://www.gdrfad.gov.ae/" target="_blank" rel="noopener noreferrer">General Directorate of Residency and Foreigners Affairs - Dubai (GDRFA)</a></li>
+            <li><a href="https://u.ae/en/information-and-services/visa-and-emirates-id" target="_blank" rel="noopener noreferrer">UAE Official Portal - Visa and Emirates ID</a></li>
+        {% elsif categories_text contains 'banking-finance' or categories_text contains 'finance' %}
+            <li><a href="https://www.centralbank.ae/" target="_blank" rel="noopener noreferrer">Central Bank of the UAE</a></li>
+            <li><a href="https://u.ae/en/information-and-services/finance-and-investment" target="_blank" rel="noopener noreferrer">UAE Official Portal - Finance and Investment</a></li>
+        {% else %}
+            <li><a href="https://u.ae/en" target="_blank" rel="noopener noreferrer">UAE Official Portal (u.ae)</a></li>
+            <li><a href="https://www.visitdubai.com/" target="_blank" rel="noopener noreferrer">Visit Dubai (Department of Economy and Tourism)</a></li>
+        {% endif %}
+    </ul>
+    <p class="official-sources-review">Editorial review date:
+        <time datetime="{{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}">{{ page.last_modified_at | default: page.date | date: "%B %-d, %Y" }}</time>.
+    </p>
+</section>

@@ -1,0 +1,24 @@
+<div class="unit-link-box">
+    <span class="unit-link-label">Recommended Guides</span>
+    {% if include.intro %}
+    <p class="unit-link-intro">{{ include.intro }}</p>
+    {% endif %}
+    <div class="unit-link-links">
+        {% if include.link1_url and include.link1_text %}
+        <a href="{{ include.link1_url }}" class="unit-link-item">
+            <span class="unit-link-arrow">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"></polyline></svg>
+            </span>
+            {{ include.link1_text }}
+        </a>
+        {% endif %}
+        {% if include.link2_url and include.link2_text %}
+        <a href="{{ include.link2_url }}" class="unit-link-item">
+            <span class="unit-link-arrow">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"></polyline></svg>
+            </span>
+            {{ include.link2_text }}
+        </a>
+        {% endif %}
+    </div>
+</div>

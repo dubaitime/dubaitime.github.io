@@ -1,0 +1,36 @@
+<header class="bnef-header">
+	<div class="bnef-logo">
+		<a href="{{ '/' | relative_url }}">Dubai<strong>Time</strong></a>
+	</div>
+
+	<button class="mobile-menu-toggle" aria-label="Toggle Menu">
+		<i class="fas fa-bars"></i>
+	</button>
+
+	<div class="bnef-nav-wrapper">
+		<nav class="bnef-nav" aria-label="Main navigation">
+			<ul>
+				<li><a href="{{ '/topics/bus-timings/' | relative_url }}">Bus Timings</a></li>
+				<li><a href="{{ '/topics/uae-visa-id/' | relative_url }}">UAE Visa</a></li>
+				<li><a href="{{ '/topics/banking-finance/' | relative_url }}">Banking</a></li>
+				<li><a href="{{ '/topics/city-guides/' | relative_url }}">City Guides</a></li>
+				<li><a href="{{ '/topics/shopping-lifestyle/' | relative_url }}">Shopping</a></li>
+			</ul>
+		</nav>
+		<div class="bnef-actions">
+			<a href="{{ '/topics/' | relative_url }}" class="btn-outline">All Topics</a>
+		</div>
+	</div>
+</header>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+		var toggle = document.querySelector('.mobile-menu-toggle');
+		var nav = document.querySelector('.bnef-nav-wrapper');
+		if (toggle && nav) {
+			toggle.addEventListener('click', function () {
+				nav.classList.toggle('is-open');
+			});
+		}
+	});
+</script>

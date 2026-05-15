@@ -1,0 +1,98 @@
+.socialIconBack {
+	color: $social-icons-background-color;
+	transition: color 0.3s;
+}
+
+.socialIconTop {
+	color: $social-icons-foreground-color;
+	transition: color 0.3s;
+}
+
+.footerIcons a:hover {
+	.socialIconBack {
+		color: $accent-color;
+	}
+	.socialIconTop {
+		color: #fff;
+	}
+}
+/* --- Unit Link Box --- */
+/* Matches the site's flat, editorial design language:
+   - #005BFF blue accent (matches .postlist-category-label)
+   - Border-bottom separator (matches .postlist-card-body)
+   - Uppercase label (matches .postlist-category-label pattern)
+   - border-radius: 0 (matches .postlist-card flat style)
+   - btn-outline style links (matches .bnef-actions .btn-outline)    */
+
+.unit-link-box {
+	margin: 40px 0;
+	padding: 28px 0 24px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+
+.unit-link-label {
+	display: block;
+	font-size: 1.2rem;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+	color: #005BFF;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+}
+
+.unit-link-intro {
+	font-size: 1.4rem;
+	color: #555;
+	line-height: 1.6;
+	margin: 0 0 20px;
+}
+
+.unit-link-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+}
+
+.unit-link-item {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 9px 18px;
+	background: transparent;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	font-size: 1.3rem;
+	font-weight: 600;
+	color: #111;
+	text-decoration: none;
+	transition: border-color 0.2s, color 0.2s, background 0.2s;
+
+	.unit-link-arrow {
+		display: flex;
+		align-items: center;
+		color: #005BFF;
+		transition: transform 0.2s;
+	}
+
+	&:hover {
+		background: #005BFF;
+		border-color: #005BFF;
+		color: #fff;
+
+		.unit-link-arrow {
+			transform: translateX(3px);
+			color: #fff;
+		}
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.unit-link-links {
+		flex-direction: column;
+	}
+
+	.unit-link-item {
+		width: 100%;
+	}
+}

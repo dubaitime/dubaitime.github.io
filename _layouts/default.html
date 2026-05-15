@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+    <a class="skip-to-content" href="#main-content">Skip to main content</a>
+    <div class="contentWrapper">
+        <div class="headerBackground subPageHeaderBackground">
+            <div class="container">
+                {% include header.html %}
+                <main id="main-content">
+                    {% if page.url == '/' or page.url == '/index.html' %}
+                    <section class="home-hero" aria-label="Welcome to DubaiTime">
+                        <div class="home-hero-content">
+                            <span class="home-hero-label">YOUR CITY. YOUR TIME.</span>
+                            <h1 class="home-hero-title">Real-time updates<br>for Dubai life</h1>
+                            <p class="home-hero-description">The most reliable source for UAE news, transport, services, and
+                                lifestyle guides. Stay connected to the pulse of the city.</p>
+                        </div>
+                        <div class="home-hero-image-wrapper">
+                            <img class="home-hero-img" src="{{ 'assets/images/hero-cover.jpg' | relative_url }}"
+                                alt="Dubai skyline at sunset — DubaiTime real-time city guide">
+                        </div>
+                    </section>
+                    {% include features.html %}
+                    {% endif %}
+                    <div class="page-content" style="grid-area: c; width: 100%;">
+                        {{ content }}
+                    </div>
+                    {% if page.url == '/' or page.url == '/index.html' %}
+                    {% include postlist.html %}
+                    {% endif %}
+                    {% include newsletter_cta.html %}
+                </main>
+                {% include footer.html %}
+                {% include appstoreimages.html %}
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
