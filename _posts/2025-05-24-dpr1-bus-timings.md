@@ -1,4 +1,4 @@
----
+﻿---
 title: DPR1 Bus Timetable  Ibn Battuta to Dubai Parks
 layout: post
 author: Al Khaleej
@@ -42,7 +42,7 @@ For the full schedule, you can visit the official RTA website, or use this link 
 
 Dubai, renowned for its progressive infrastructure and world-class attractions, introduces the DPR1 bus route as a testament to its commitment to accessible and efficient public transportation. It started in 2018 when the RTA announce to the public that there is a new bus route which served trip to DPR.
 
-comhttps://cdn.emzeth.com/img/2024/04/DPR1-Bus-Route. jpg)
+comhttps://cdn.emzeth.com/img/2024/04/DPR1-Bus-Route.jpg)
 
 The DPR1 bus route commences its journey at Ibn Battuta, strategically positioned near the metro station for easy access. Here is the complete route and stops of dpr1 bus.1. Ibn Battuta
 
@@ -79,3 +79,4 @@ By providing a seamless connection between Ibn Battuta and Dubai Parks & Resorts
 Whether embarking on a thrilling adventure at the theme parks or commuting to work, the DPR1 bus promises a hassle-free journey through the heart of Dubai's dynamic landscape.
 
 With its comprehensive route, reliable timings, and comfortable travel experience, the DPR1 bus stands as a testament to Dubai's commitment to excellence in public transportation.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: Big Bus Abu Dhabi Timetable
 layout: post
 author: Al Khaleej
@@ -40,13 +40,13 @@ Sheikh Zayed Grand Mosque Shuttle (Green Route) Timetable- First Bus: 12:00pm fr
 
 Ticket Pricing: Big Bus Tours fares begin at AED 100 for a full day pass with unlimited hop-on, hop-off to the City Tour (Blue) route. You can buy your ticket online or on the bus.
 
-Take Bus 401 and discover more about Abu Dhabi’s rich heritage.
+Take Bus 401 and discover more about Abu Dhabiâ€™s rich heritage.
 
 ## Route Overview
 
-### 1. City Tour  Red Route![City Tour (red Route)](https://cdn.emzeth.com/img/2024/12/City-Tour-Red-Route. jpg)
+### 1. City Tour  Red Route![City Tour (red Route)](https://cdn.emzeth.com/img/2024/12/City-Tour-Red-Route.jpg)
 
-City Tour (Red Route)Abu Dhabi’s Red Route shows off the key attractions in the city. Below is an overview of the major stops along the City Tour:
+City Tour (Red Route)Abu Dhabiâ€™s Red Route shows off the key attractions in the city. Below is an overview of the major stops along the City Tour:
 
 1. Abu Dhabi Mall: The starting point for the tour, located at Al Maiyani Street / 10th Street near Tim Hortons, and a major shopping destination.
 
@@ -68,19 +68,19 @@ City Tour (Red Route)Abu Dhabi’s Red Route shows off the key attractions in th
 
 8. Bay View: A serene spot on Al Kasir Street, located next to Al Kareem Mosque.
 
-9. Founder’s Memorial: A tribute to the UAE’s founding father, located on Al Marsa Street at the Founder’s Memorial drop-off area.
+9. Founderâ€™s Memorial: A tribute to the UAEâ€™s founding father, located on Al Marsa Street at the Founderâ€™s Memorial drop-off area.
 
 10.
 
-11. Presidential Palace: The official residence of the UAE’s leadership, located on West Corniche Road near the Visitors’ Centre.
+11. Presidential Palace: The official residence of the UAEâ€™s leadership, located on West Corniche Road near the Visitorsâ€™ Centre.
 
 12. Al Hosn Fort: A historical fort and symbol of the city, located on Hamdan Street. Nearby attractions include Al Manhal Palace & Gardens and The Landmark.
 
-13. WTC Souk: A traditional marketplace offering local goods, located on Khalifa bin Zayed The First Street near the World Trade Center’s main entrance.
+13. WTC Souk: A traditional marketplace offering local goods, located on Khalifa bin Zayed The First Street near the World Trade Centerâ€™s main entrance.
 
 14.
 
-### 2. jpg)
+### 2.jpg)
 
 The route includes:
 
@@ -96,7 +96,7 @@ Some of the key attractions along the Big Bus Tours Abu Dhabi routes include:
 
 2.
 
-3. Al Hosn Fort: A historical landmark that offers a glimpse into the city’s past.
+3. Al Hosn Fort: A historical landmark that offers a glimpse into the cityâ€™s past.
 
 4.
 
@@ -104,10 +104,11 @@ Some of the key attractions along the Big Bus Tours Abu Dhabi routes include:
 
 6. Heritage Village: A cultural museum that presents traditional life in the UAE.
 
-7. Louvre Museum: An art lover’s paradise located on Saadiyat Island.
+7. Louvre Museum: An art loverâ€™s paradise located on Saadiyat Island.
 
 8. Public Beach (Corniche): A relaxing spot for a day by the sea.
 
 ## Journey Experience
 
-Hop-on, hop-off lets you spend as much time exploring the city’s incredible array of attractions, such as the cultural Heritage Village and the world’s famous Louvre Museum.
+Hop-on, hop-off lets you spend as much time exploring the cityâ€™s incredible array of attractions, such as the cultural Heritage Village and the worldâ€™s famous Louvre Museum.
+

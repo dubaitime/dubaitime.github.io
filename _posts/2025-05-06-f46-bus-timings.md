@@ -1,4 +1,4 @@
----
+﻿---
 title: F46 Bus Timings  Ibn Battuta to Dubai Investment Park Route Details
 layout: post
 author: Al Khaleej
@@ -76,7 +76,7 @@ For the complete timetable, please click [here](https://www. rta. ae/wps/PA_Jour
 
 {% include unit_link.html title="Recommended Guides" intro="Enhance your daily commute with these essential transport guides:" link1_url="/rta-intercity-bus-routes-connecting-dubai-to-other-cities/" link1_text="Complete RTA Intercity Routes Guide" link2_url="/biggest-bus-stn/" link2_text="Largest Bus Stations Infrastructure in UAE" %}
 
-The F46 bus route is designed to connect key areas in Dubai, making it a vital link for daily commuters. Starting from the bustling [Ibn Battuta Metro Station](/dpr1-bus-timings/), the bus winds through various important landmarks before reaching its terminus at Dubai Investment Park (DIP) 2.![F46 Bus Route](https://cdn.emzeth.com/img/2024/06/F24-Bus-Route. jpg)
+The F46 bus route is designed to connect key areas in Dubai, making it a vital link for daily commuters. Starting from the bustling [Ibn Battuta Metro Station](/dpr1-bus-timings/), the bus winds through various important landmarks before reaching its terminus at Dubai Investment Park (DIP) 2.![F46 Bus Route](https://cdn.emzeth.com/img/2024/06/F24-Bus-Route.jpg)
 
 This route caters to both residents and employees working in the numerous commercial establishments along the way.
 
@@ -99,6 +99,7 @@ This route caters to both residents and employees working in the numerous commer
 
 The entire route of the F46 bus covers approximately 28 kilometers, with a total of 26 stops from Ibn Battuta to the DIP Madina Supermarket Terminus. The journey typically takes around 34 minutes, depending on traffic conditions and time of day.## Journey Experience
 
-It also passes near Expo City Dubai, a landmark from the world-famous Expo 2020. As the route heads toward Dubai Investment Park, passengers get a glimpse of a growing area that blends residential, commercial, and industrial zones. Despite the length of the journey, it provides a fascinating view of Dubai’s dynamic growth and contrasts between modern city life and emerging suburban developments.## Conclusion
+It also passes near Expo City Dubai, a landmark from the world-famous Expo 2020. As the route heads toward Dubai Investment Park, passengers get a glimpse of a growing area that blends residential, commercial, and industrial zones. Despite the length of the journey, it provides a fascinating view of Dubaiâ€™s dynamic growth and contrasts between modern city life and emerging suburban developments.## Conclusion
 
-The F46 bus route is a testament to Dubai’s efficient public transport system, offering residents and visitors a reliable means to traverse key parts of the city. And knowing the f46 bus timings is very important for the passengers. Whether you're heading to work, shopping, or just exploring, the F46 bus provides a convenient and comfortable journey across Dubai's diverse urban landscape.
+The F46 bus route is a testament to Dubaiâ€™s efficient public transport system, offering residents and visitors a reliable means to traverse key parts of the city. And knowing the f46 bus timings is very important for the passengers. Whether you're heading to work, shopping, or just exploring, the F46 bus provides a convenient and comfortable journey across Dubai's diverse urban landscape.
+

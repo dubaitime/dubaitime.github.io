@@ -1,4 +1,4 @@
----
+﻿---
 title: A2 Airport Bus Timings  Abu Dhabi Airport ECC to Sheikh Zayed bin Sultan Street
 layout: post
 author: Al Khaleej
@@ -47,7 +47,7 @@ By knowing it, you will know the street and the landmarks of [Abu Dhabi city](ht
 
 [Download PDF Bus A2](/assets/pdf/abu-dhabi-bus/BusServiceA2.pdf)
 
-For full schedule details, you can visit the official AD Mobility website or follow this link for [A2 Bus Timings](https://admobility. gov. ae/ckfinder/userfiles/files/BusServiceA2. pdf). Additionally, for the schedule from Mazyad Mall to Razim Street, you can refer to the timetable provided below:![Abu Dhabi Airport Bus A2 Timetable](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable. jpg)![Abu Dhabi Airport Bus A2 Timetable 2](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable-2. jpg)![Abu Dhabi Airport Bus A2 Timetable 3](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable-3. jpg)
+For full schedule details, you can visit the official AD Mobility website or follow this link for [A2 Bus Timings](https://admobility. gov. ae/ckfinder/userfiles/files/BusServiceA2. pdf). Additionally, for the schedule from Mazyad Mall to Razim Street, you can refer to the timetable provided below:![Abu Dhabi Airport Bus A2 Timetable](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable.jpg)![Abu Dhabi Airport Bus A2 Timetable 2](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable-2.jpg)![Abu Dhabi Airport Bus A2 Timetable 3](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Airport-Bus-A2-Timetable-3.jpg)
 
 ## Abu Dhabi A2 Bus Route and Destination
 
@@ -75,4 +75,5 @@ The A2 bus route serves a variety of destinations, providing passengers with acc
 
 9. Khalifa St
 
-Some other Abu Dhabi bus routes you can check out include the [M3 bus route](https://uaetiming. com/route-and-stops-of-abu-dhabi-bus-m3-full-details/), which runs from Abu Dhabi University Main Gate to Mohamed Bin Zayed City, ADVETI, and the [216 route](https://uaetiming. com/abu-dhabi-bus-216-essential-route-and-stops-information/), which travels from Al Shahama Bus Station to Mohamed Bin Zayed City Bus Station.![Abu Dhabi Bus a2 Route](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Bus-a2-Route. jpg)
+Some other Abu Dhabi bus routes you can check out include the [M3 bus route](https://uaetiming. com/route-and-stops-of-abu-dhabi-bus-m3-full-details/), which runs from Abu Dhabi University Main Gate to Mohamed Bin Zayed City, ADVETI, and the [216 route](https://uaetiming. com/abu-dhabi-bus-216-essential-route-and-stops-information/), which travels from Al Shahama Bus Station to Mohamed Bin Zayed City Bus Station.![Abu Dhabi Bus a2 Route](https://cdn.emzeth.com/img/2024/03/Abu-Dhabi-Bus-a2-Route.jpg)
+

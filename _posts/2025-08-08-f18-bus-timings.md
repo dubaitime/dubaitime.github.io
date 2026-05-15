@@ -1,4 +1,4 @@
----
+﻿---
 title: F18 Bus Schedule  From Oud Metha Metro Station to Sunrise City Supermarket and Return
 layout: post
 author: Al Khaleej
@@ -95,7 +95,7 @@ The F18 bus operates daily with a consistent schedule to accommodate passengers 
 
 To view the full schedule, you can visit the official RTA website or follow this link to access the [F18 Bus Timings](https://www. rta. ae/wps/PA_JourneyPlanner/DownloadTimetableServlet? lineId=dub:12F18:%20: H: y08&lineName=bus%20F18).## F18 Bus Route Landmarks
 
-F18 bus past several icons of the city, some of them are below![F18 Bus Route](https://cdn.emzeth.com/img/2024/06/F18-Bus-Route. jpg)
+F18 bus past several icons of the city, some of them are below![F18 Bus Route](https://cdn.emzeth.com/img/2024/06/F18-Bus-Route.jpg)
 
 ### Oud Metha Metro Station
 
@@ -105,7 +105,7 @@ F18 bus past several icons of the city, some of them are below![F18 Bus Route](h
 
 This is a significant hub in Dubai's public transportation network, situated on the Green Line of the Dubai Metro.
 
-Mary’s Catholic Church, and the northern end of Creek Park?.
+Maryâ€™s Catholic Church, and the northern end of Creek Park?.
 
 ### American Hospital
 
@@ -128,3 +128,4 @@ The F18 bus route from Oud Metha Metro Station to Sunrise City Supermarket and b
 As the route continues, passengers are taken through quieter residential zones, providing a glimpse into the more suburban side of the city near Sunrise City Supermarket.
 
 The F18 bus route is an essential part of Dubai's public transport system, offering frequent and reliable service across key locations in the city. Whether you're heading to a hospital, a shopping mall, or simply navigating through Oud Metha. The F18 bus ensures you get there efficiently. With its regular schedule, strategic stops, and real-time tracking, the F18 bus is a convenient option for both daily commuters and occasional travelers in Dubai?
+

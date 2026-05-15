@@ -1,4 +1,4 @@
----
+﻿---
 title: Abu Dhabi Bus 911 Timings  Bateen West Souq to Hili Fun City
 layout: post
 author: Al Khaleej
@@ -8,19 +8,19 @@ image: https://cdn.emzeth.com/img/2024/12/AD-Bus-911-Cover.jpg
 featured: true
 ---
 
-Public transport system in Abu Dhabi is a model of efficiency to serve residents as well as visitors. One such route, that is bus 911, is among the most important routes that allow passengers to transit from Bateen West Souq to Hili Fun City and stops in between at important Al Ain’s points. Operational details, major stops, and a travel guide to help you on your journey, 911 route overview has it all.
+Public transport system in Abu Dhabi is a model of efficiency to serve residents as well as visitors. One such route, that is bus 911, is among the most important routes that allow passengers to transit from Bateen West Souq to Hili Fun City and stops in between at important Al Ainâ€™s points. Operational details, major stops, and a travel guide to help you on your journey, 911 route overview has it all.
 
 Contents
 
 ## Operational Details
 
-Bus 911 assures timely departures throughout the day; it is dependable on its schedule. Below is the detailed timetable:![911 Weekday Morning Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekday-Morning-Schedule. jpg)
+Bus 911 assures timely departures throughout the day; it is dependable on its schedule. Below is the detailed timetable:![911 Weekday Morning Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekday-Morning-Schedule.jpg)
 
-911 Weekday Morning Schedule![911 Weekday Evening Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekday-Evening-Schedule. jpg)
+911 Weekday Morning Schedule![911 Weekday Evening Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekday-Evening-Schedule.jpg)
 
-911 Weekday Evening Schedule![911 Weekend Morning Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekend-Morning-Schedule. jpg)
+911 Weekday Evening Schedule![911 Weekend Morning Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekend-Morning-Schedule.jpg)
 
-911 Weekend Morning Schedule![911 Weekend Evening Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekend-Evening-Schedule. jpg)
+911 Weekend Morning Schedule![911 Weekend Evening Schedule](https://cdn.emzeth.com/img/2024/12/911-Weekend-Evening-Schedule.jpg)
 
 911 Weekend Evening ScheduleClick this link for 911 Bus Timings, for detailed schedules, please refer to the official AD Mobility website.
 
@@ -132,7 +132,7 @@ Some notable attractions along the Bus 911 route include:
 
 4.
 
-5. Al Ain National Museum: Located near Al Jahili Fort, this museum provides insights into the region’s rich heritage and history.
+5. Al Ain National Museum: Located near Al Jahili Fort, this museum provides insights into the regionâ€™s rich heritage and history.
 
 6.
 
@@ -150,4 +150,5 @@ Some notable attractions along the Bus 911 route include:
 
 The journey begins from Bateen West Souq where passengers will enjoy the lively market mood, there they will see key stops including the peaceful Salem Saud Al Wahaibi Mosque and the grand royal Maqam Palace East.
 
-Al Jahili Park, with its lush views neighbouring the historic Al Jahili Fort, is a must see; and it highlights Emirati heritage. The route carries on past UAE University, a hub for innovation, then past Hili Fun City, a family friendly amusement park with attractions nearby such as Hili Archaeological Park, which showcases the city’s ancient history. The long ride is enjoyable and educational because it encapsulates Al Ain’s rich culture along this scenic route.
+Al Jahili Park, with its lush views neighbouring the historic Al Jahili Fort, is a must see; and it highlights Emirati heritage. The route carries on past UAE University, a hub for innovation, then past Hili Fun City, a family friendly amusement park with attractions nearby such as Hili Archaeological Park, which showcases the cityâ€™s ancient history. The long ride is enjoyable and educational because it encapsulates Al Ainâ€™s rich culture along this scenic route.
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: C1 Bus Timings  Airport Terminal to Satwa Bus Station
 layout: post
 author: Al Khaleej
@@ -100,7 +100,7 @@ The C1 bus operates 24 hours a day, seven days a week, ensuring that passengers 
 
 To view the full schedule, you can check the official RTA website or click this link for [C1 Bus Timings](https://www. rta. ae/wps/PA_JourneyPlanner/DownloadTimetableServlet? lineId=dub:01C01:%20: H: y08&lineName=bus%20C01).## C1 Bus Route
 
-The C1 bus route is a vital link between some of the most significant locations in Dubai. Starting from Airport Terminal 3, it runs through various key areas before reaching its final stop at Al Satwa Bus Station. Here are the primary stops along the C1 route![C1 Bus Route](https://cdn.emzeth.com/img/2024/06/C1-Bus-Route. jpg)
+The C1 bus route is a vital link between some of the most significant locations in Dubai. Starting from Airport Terminal 3, it runs through various key areas before reaching its final stop at Al Satwa Bus Station. Here are the primary stops along the C1 route![C1 Bus Route](https://cdn.emzeth.com/img/2024/06/C1-Bus-Route.jpg)
 
 1. Airport Terminal 3
 
@@ -156,12 +156,13 @@ This route covers a total of 24 stops, making it an extensive service that touch
 
 The Nol card, a smart card used for all types of public transportation in Dubai, is required to pay the fare.
 
-The card can be topped up at metro stations, bus stations, and various retail outlets. Fares typically range from AED 3 to AED 7.5 depending on the distance and zones traveled​.## Journey Experience
+The card can be topped up at metro stations, bus stations, and various retail outlets. Fares typically range from AED 3 to AED 7.5 depending on the distance and zones traveledâ€‹.## Journey Experience
 
 Departing from the Airport Terminal, the bus weaves through bustling neighborhoods, providing passengers with views of iconic landmarks such as the Dubai World Trade Centre and the vibrant Al Karama area, known for its eclectic mix of shops and restaurants.
 
-As the bus makes its way to Satwa, riders can admire the city’s modern architecture alongside traditional markets, including the famous Karama Market, where visitors can find everything from textiles to souvenirs. The journey concludes at Satwa Bus Station, a key transit point surrounded by cultural gems like the historic Dubai Frame and the colorful Satwa district, making this trip a great introduction to Dubai's rich blend of tradition and modernity.## Conclusion
+As the bus makes its way to Satwa, riders can admire the cityâ€™s modern architecture alongside traditional markets, including the famous Karama Market, where visitors can find everything from textiles to souvenirs. The journey concludes at Satwa Bus Station, a key transit point surrounded by cultural gems like the historic Dubai Frame and the colorful Satwa district, making this trip a great introduction to Dubai's rich blend of tradition and modernity.## Conclusion
 
 Whether you're a resident commuting to work or a visitor exploring Dubai, the C1 bus offers a convenient and reliable means of transportation. With its extensive route, frequent service, and easy payment options, the C1 bus is a cornerstone of Dubai's public transit system. And knowing the c1 bus timing is very important to you who want to travel with c1 bus route.## FAQs
 
 **What time does the C1 bus start?**The C1 bus operates 24/7, and the first bus depart at 03.27 and the last bus depart at 02.57**How often does the C1 bus run?**The frequency ranges from 8 to 16 minutes, depending on the day of the week.**How much is the fare for the C1 bus?**Fares range from AED 3 to AED 7.5, depending on the number of zones traveled.
+

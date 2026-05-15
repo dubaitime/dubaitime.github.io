@@ -1,4 +1,4 @@
----
+﻿---
 title: Quranic Park Timings 2024 (Opening and Closing)
 layout: post
 author: Al Khaleej
@@ -18,7 +18,7 @@ Quranic Park is located at Al Khawaneej, [Dubai, UAE](/category/dubai/), and the
 
 However, key attractions within the park, such as the Glass House and Cave of Miracles, have their own schedules:- Saturday to Thursday: 9:00 AM to 9:00 PM
 
-- Friday: 3:00 PM to 9:00 PM![Quranic Park Dubai](https://cdn.emzeth.com/img/2024/06/Quranic-Park-Dubai. jpg)
+- Friday: 3:00 PM to 9:00 PM![Quranic Park Dubai](https://cdn.emzeth.com/img/2024/06/Quranic-Park-Dubai.jpg)
 
 ### Attractions
 
@@ -55,3 +55,4 @@ Quranic Park is designed to ensure a comfortable and enjoyable experience for al
 - Playground: A fun area for children.
 - Prayer Rooms: Available for visitors to perform their daily prayers.
 - Jogging Track: A soft track around the park's perimeter for jogging enthusiasts?
+

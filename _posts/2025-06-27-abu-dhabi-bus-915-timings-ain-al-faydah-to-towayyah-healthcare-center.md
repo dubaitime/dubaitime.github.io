@@ -1,4 +1,4 @@
----
+﻿---
 title: Abu Dhabi Bus 915 Timings  Ain Al Faydah to Towayyah Healthcare Center
 layout: post
 author: Al Khaleej
@@ -14,13 +14,13 @@ Contents
 
 ## Operational Details
 
-Bus 915 runs throughout the day with regular depatures from Ain Al Faydah and Towayyah Healthcare Center. Below is the detailed timetable for Bus 915 from both ends of the route:![915 Weekday Morning Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekday-Morning-Schedule. jpg)
+Bus 915 runs throughout the day with regular depatures from Ain Al Faydah and Towayyah Healthcare Center. Below is the detailed timetable for Bus 915 from both ends of the route:![915 Weekday Morning Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekday-Morning-Schedule.jpg)
 
-915 Weekday Morning Schedule![915 Weekday Evening Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekday-Evening-Schedule. jpg)
+915 Weekday Morning Schedule![915 Weekday Evening Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekday-Evening-Schedule.jpg)
 
-915 Weekday Evening Schedule![915 Weekend Morning Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekend-Morning-Schedule. jpg)
+915 Weekday Evening Schedule![915 Weekend Morning Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekend-Morning-Schedule.jpg)
 
-915 Weekend Morning Schedule![915 Weekend Evening Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekend-Evening-Schedule. jpg)
+915 Weekend Morning Schedule![915 Weekend Evening Schedule](https://cdn.emzeth.com/img/2024/12/915-Weekend-Evening-Schedule.jpg)
 
 915 Weekend Evening ScheduleThe full schedule of the Bus 915 is available on the official AD Mobility website or you can easily click on this link for 915 Bus Timings.
 
@@ -54,13 +54,13 @@ Route 915 Bus is a great link to important places in Al Ain and is highly import
 
 12. Sultan Ali Saif Mohayri Mosque: A beautiful mosque in the heart of the city.
 
-13. HCT Men’s College: A prominent educational institution.
+13. HCT Menâ€™s College: A prominent educational institution.
 
 14. Omar Ibn Abdulaziz Mosque: An important cultural and religious site.
 
 15. Al Ain Zoo: A well-known family destination with diverse wildlife.
 
-16. HCT Women’s College: An educational institution for female students.
+16. HCT Womenâ€™s College: An educational institution for female students.
 
 17. Al Taqwa Mosque: A key religious site for the community.
 
@@ -68,7 +68,7 @@ Route 915 Bus is a great link to important places in Al Ain and is highly import
 
 19. Etisalat: A telecommunications hub in Al Ain.
 
-20. Al Ain Palace Museum: A glimpse into the city’s royal history and culture.
+20. Al Ain Palace Museum: A glimpse into the cityâ€™s royal history and culture.
 
 21. Post Office: The main postal service center.
 
@@ -132,7 +132,7 @@ Some nearby attractions include:
 
 1. Al Ain Zoo: A renowned zoo showcasing various species and offering educational activities for families.
 
-2. Al Ain Palace Museum: A place to explore the history of Al Ain’s royal family and heritage.
+2. Al Ain Palace Museum: A place to explore the history of Al Ainâ€™s royal family and heritage.
 
 3.
 
@@ -142,7 +142,7 @@ Some nearby attractions include:
 
 6. Jebel Hafeet: A majestic mountain offering breathtaking views of Al Ain and surrounding areas, with a scenic drive and picnic spots.
 
-7. Al Jahili Fort: A historic fort that showcases the region’s history and culture, with exhibitions about the city’s heritage.
+7. Al Jahili Fort: A historic fort that showcases the regionâ€™s history and culture, with exhibitions about the cityâ€™s heritage.
 
 8. Wadi Adventure: A unique adventure park that offers water sports, ziplining, and more, located at the base of Jebel Hafeet.
 
@@ -154,4 +154,5 @@ Some nearby attractions include:
 
 The start is at Ain Al Faydah, then past the Ain Al Faydah Hotel and peaceful 88 Street, where you can visit the Al Ain Zoo, famous for its wildlife, and the magnificent Sheikh Khalifa Bin Zayed Grand Mosque.
 
-The bus also travels past the Al Ain Palace Museum, where you can learn about the city’s royal history, and the busy Al Ain City Centre for shopping and eating. Al Tawyeen Park is a place to relax and remains peaceful. For those wanting to take in the best of Al Ain’s culture, history, and modern amenities in one smooth ride, this is the perfect long but enjoyable trip.
+The bus also travels past the Al Ain Palace Museum, where you can learn about the cityâ€™s royal history, and the busy Al Ain City Centre for shopping and eating. Al Tawyeen Park is a place to relax and remains peaceful. For those wanting to take in the best of Al Ainâ€™s culture, history, and modern amenities in one smooth ride, this is the perfect long but enjoyable trip.
+

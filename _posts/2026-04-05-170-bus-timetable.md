@@ -1,4 +1,4 @@
----
+﻿---
 title: Bus 170 Timings  Saadiyat New York University 2 to Al Zeina
 layout: post
 author: Al Khaleej
@@ -74,7 +74,7 @@ Based on the RTA website, Bus 170 connects Al Zeina and Saadiyat New York Univer
 
 It is a waterfront community that offers a mix of apartments, townhouses, and villas, along with retail outlets, cafes, restaurants, and recreational facilities. And New York University Abu Dhabi (NYUAD) is located on Saadiyat Island in Abu Dhabi, United Arab Emirates.
 
-It is one of NYU's global campuses and offers undergraduate programs in various fields including arts and humanities, social sciences, sciences, engineering, and more. Two two places are very important, and many of people want to visit the places by taking the bus.![170 Bus Route Abu Dhabi](https://cdn.emzeth.com/img/2024/05/170-Bus-Route-Abu-Dhabi. jpg)
+It is one of NYU's global campuses and offers undergraduate programs in various fields including arts and humanities, social sciences, sciences, engineering, and more. Two two places are very important, and many of people want to visit the places by taking the bus.![170 Bus Route Abu Dhabi](https://cdn.emzeth.com/img/2024/05/170-Bus-Route-Abu-Dhabi.jpg)
 
 ## 170 Bus Route and Stops
 
@@ -112,8 +112,9 @@ By taking 170 Bus, you will see several landmarks in Abu Dhabi. There are 14 sto
 
 Some other Abu Dhabi bus routes you can explore include the [121 bus route](https://uaetiming. com/essential-guide-to-abu-dhabi-reg-bus-121-timings-and-stops/) passing through stations from Hidd Al Saadiyat to Mazyad Mall (MBZ City) and the [155 bus route](https://uaetiming. com/all-you-need-to-know-about-abu-dhabi-reg-bus-155-routes-and-timetables/) from Khalifa Bin Zayed Street to Shakhbout City, ADNOC.**Read Also**: [Abu Dhabi Airport Bus A1 Timetable](https://uaetiming. com/abu-dhabi-airport-bus-a1-timetable/) ## Journey Experience
 
-A trip on Bus 170 from Saadiyat New York University 2 to Al Zeina offers a long but fascinating journey through Abu Dhabi’s vibrant urban and coastal areas.
+A trip on Bus 170 from Saadiyat New York University 2 to Al Zeina offers a long but fascinating journey through Abu Dhabiâ€™s vibrant urban and coastal areas.
 
 As the route heads toward Al Zeina, a scenic residential and commercial hub located along the waterfront, passengers can enjoy glimpses of pristine beaches and lush landscapes.
 
 And it connects two popular places Al Zeina and Saadiyat New York University. By understanding the route and referring to the 170 bus timetable, passengers can plan their journeys effectively, ensuring a seamless and enjoyable travel experience amidst the dynamic backdrop of Abu Dhabi's cultural, commercial, and recreational attractions.
+
