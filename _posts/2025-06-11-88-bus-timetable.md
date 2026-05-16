@@ -1,20 +1,27 @@
-﻿---
-title: Updated 88 Bus Timings  Dubai Internet City Metro Seaside to Deira City Center Bus Station
+---
+title: "88 Bus Timetable: Dubai Internet City Metro Seaside to Deira City Center Bus Station"
 layout: post
 author: Al Khaleej
 categories:
 - Bus Timings
 image: https://cdn.emzeth.com/img/2024/06/88-Bus-Timetable.jpg
 featured: true
+description: "Dubai Bus 88 timetable, route overview, and travel tips for Dubai Internet City Metro Seaside to Deira City Center Bus Station."
+last_modified_at: 2026-05-16
+official_sources:
+  - name: Roads and Transport Authority (Dubai)
+    url: https://www.rta.ae/
+  - name: RTA Journey Planner
+    url: https://www.rta.ae/wps/PA_JourneyPlanner/Home.html
+  - name: RTA 88 Timetable Download
+    url: "https://www.rta.ae/wps/PA_JourneyPlanner/DownloadTimetableServlet?lineId=dub:01088:%20:H:y08&lineName=bus%2088"
 ---
 
-The 88 Bus route in Dubai is an essential public transport link, connecting [Dubai Internet City Seaside Metro Station](https://uaetiming. com/f34-bus-timetable/) to [Deira City Center Bus Station](https://uaetiming. com/e307-bus-timings/).
-
-Located in the bustling area of Dubai Internet City, it serves as a key access point for numerous tech companies, media organizations, and educational institutions in the vicinity. This route is popular among commuters and travelers due to its comprehensive coverage of key areas in Dubai, making it a reliable option for daily transportation. Contents
+Dubai Bus 88 is a long cross-city route connecting Dubai Internet City Metro Seaside with Deira City Center Bus Station. It is useful for commuters moving between business districts, beachside neighborhoods, older central areas, and Deira.
 
 ## 88 Bus Timetable
 
-The 88 Bus operates daily, providing frequent service throughout the day. The schedule is designed to accommodate the busy lifestyles of Dubaiâ€™s residents and visitors. Typically, buses run every 15-20 minutes during peak hours and every 30 minutes during off-peak times.
+Use the timetable below for scheduled departures in each direction.
 
 | From Dubai Internet City Metro Seaside | From Deira City Center Bus Station |
 |---|---|
@@ -71,49 +78,38 @@ The 88 Bus operates daily, providing frequent service throughout the day. The sc
 
 [Download PDF Bus 88](/assets/pdf/rta-dubai/bus_88_Timetable.pdf)
 
-To view the full schedule, you can visit the official RTA website or follow this link to access the [88 Bus Timings](https://www. rta. ae/wps/PA_JourneyPlanner/DownloadTimetableServlet? lineId=dub:01088:%20: H: y08&lineName=bus%2088). For the timetable from Dubai Internet City Metro Seaside to Deira City Center Bus Station, you can find the details below:![](https://cdn.emzeth.com/img/2024/06/Bus-88-Timetable.jpg)
+If you are planning a time-sensitive commute, confirm the latest departure in the official RTA planner before traveling.
 
-## 88 Bus Route
+## Route Overview
 
-The 88 Bus route starts from Dubai Internet City Seaside Metro Station and ends at Deira City Center Bus Station. Here are some of the main stops along the route:![88 Bus Route](https://cdn.emzeth.com/img/2024/06/88-Bus-Route.jpg)
+Key areas and stops commonly associated with Bus 88 include:
 
-1. Dubai Internet City Seaside Metro Station: The starting point, located in the heart of Dubai's technology and business hub.
-
-2. Knowledge Village: Serving the educational district with numerous universities and institutions.
-
-3. Dubai Media City: Home to several media organizations and offices.
-
-4.
-
-
+- Dubai Internet City Metro Seaside
+- Knowledge Village
+- Dubai Media City
+- Jumeirah Beach Residence
+- Jumeirah Beach Park
+- Al Wasl Road
+- Satwa
+- Al Karama
+- Al Maktoum Bridge
+- Deira City Center Metro Station
+- Deira City Center Bus Station
 
 {% include unit_link.html title="Recommended Guides" intro="Enhance your daily commute with these essential transport guides:" link1_url="/rta-intercity-bus-routes-connecting-dubai-to-other-cities/" link1_text="Complete RTA Intercity Routes Guide" link2_url="/biggest-bus-stn/" link2_text="Largest Bus Stations Infrastructure in UAE" %}
 
-5.
+## Why Riders Choose Bus 88
 
-6. Jumeirah Beach Residence (JBR): A popular residential and tourist area.
+- Direct travel between Dubai Internet City and Deira without changing modes several times
+- Useful access to major commercial and residential districts
+- Strong option for riders who need a surface route instead of a Metro-heavy journey
 
-7. Jumeirah Beach Park: Providing access to one of Dubaiâ€™s most loved beaches.
+## Travel Tips
 
-8. Al Wasl Road: A major thoroughfare connecting various parts of the city.
+- This is a longer city route, so extra travel time for traffic is worth building into your plan.
+- A Nol card is required, and the final fare depends on zones crossed.
+- Deira City Center and Dubai Internet City are both useful connection points if you need to continue by Metro or feeder bus.
 
-9. Satwa: A culturally rich neighborhood with a blend of old and new Dubai.
+## Summary
 
-10. Al Karama: Known for its shopping centers and diverse dining options.
-
-11. Al Maktoum Bridge: Offering views of the Dubai Creek and connecting the old and new parts of the city.
-
-12. Deira City Center Metro Station: A major commercial hub with a large shopping mall.
-
-13. Deira City Center Bus Station: The final stop, providing connections to various parts of the city and beyond.
-
-Some other Dubai bus routes you can explore include the [13A](https://uaetiming. com/13a-bus-timetable/), which passes through Al Qusais and Gold Souq, as well as the [C18](https://uaetiming. com/c18-bus-timings/), which runs between Shaikh Rashid Colony and Lamcy Plaza.## Landmarks Along the Route
-
-Traveling on the 88 Bus offers passengers a glimpse of some of Dubaiâ€™s most famous landmarks and areas:- Palm Jumeirah: The route passes close to this iconic island, providing views of luxury resorts and residences.
-
-- Dubai Marina: Known for its stunning skyline and waterfront, itâ€™s a highlight of the journey.
-- Jumeirah Beach: Passengers can enjoy views of the beautiful beaches and the Arabian Gulf.
-- Burj Al Arab: While not directly on the route, the bus passes close enough to offer a distant view of this iconic hotel.
-- Dubai Creek: Crossing the Al Maktoum Bridge provides a scenic view of the creek and the surrounding areas.
-- Deira City Center: The route ends at this major commercial and retail hub, perfect for shopping and dining.
-
+Bus 88 is a practical city-crossing route for commuters and visitors who need one line that connects west-side business districts with older central Dubai and Deira. Save the timetable, check RTA for live updates, and plan a little buffer time during peak traffic.

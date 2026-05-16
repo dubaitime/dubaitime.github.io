@@ -1,20 +1,27 @@
-﻿---
-title: F46 Bus Timings  Ibn Battuta to Dubai Investment Park Route Details
+---
+title: "F46 Bus Timings: Ibn Battuta to Dubai Investment Park"
 layout: post
 author: Al Khaleej
 categories:
 - Bus Timings
 image: https://cdn.emzeth.com/img/2024/06/F46-Bus-Timings.jpg
 featured: true
+description: "Dubai F46 feeder bus timetable, route stops, and travel tips for Ibn Battuta to Dubai Investment Park."
+last_modified_at: 2026-05-16
+official_sources:
+  - name: Roads and Transport Authority (Dubai)
+    url: https://www.rta.ae/
+  - name: RTA Journey Planner
+    url: https://www.rta.ae/wps/PA_JourneyPlanner/Home.html
+  - name: RTA F46 Timetable Download
+    url: "https://www.rta.ae/wps/PA_JourneyPlanner/DownloadTimetableServlet?lineId=dub:12F46:%20:H:y08&lineName=bus%20F46"
 ---
 
-We all know that DIP or known as Dubai Investment Park is massive area encompassing both industrial and residential zones, highlighting Dubai's diverse urban planning. No wonder if many of people looking to know to get some information about how to get there.
-
-One of the critical routes for residents and commuters is the F46 bus, which connects Ibn Battuta Metro Station to Dubai Investment Park (DIP). This route is not only convenient but also essential for many who travel between residential, commercial, and industrial areas. Contents
+The F46 is a Dubai feeder route that links Ibn Battuta with Dubai Investment Park. It is especially useful for riders connecting from the Metro to Green Community, DIP offices, and nearby residential or industrial stops.
 
 ## F46 Bus Timings
 
-The F46 bus route operates daily with a regular schedule, ensuring accessibility throughout the week. The first bus depart at 05.50 am and the last bus depart at 00.05 am. And here is the detail of f46 bus timings.
+Use the timetable below for scheduled departures in each direction.
 
 | From Ibn Battuta | From Dubai Investment Park |
 |---|---|
@@ -70,20 +77,17 @@ The F46 bus route operates daily with a regular schedule, ensuring accessibility
 
 [Download PDF Bus F46](/assets/pdf/rta-dubai/bus_F46_Timetable.pdf)
 
-For the complete timetable, please click [here](https://www. rta. ae/wps/PA_JourneyPlanner/DownloadTimetableServlet? lineId=dub:12F46:%20: H: y08&lineName=bus%20F46) to save on your phoneBe aware of peak travel times, typically early morning and late afternoon, when buses may be more crowded. If possible, plan your travel outside these times for a more comfortable journey.**Read Also**: [F24 Bus Timings](/f24-bus-timings/) ## F46 Bus Route
+For late trips or rush-hour commutes, verify the live schedule in the official RTA planner before traveling.
 
+## Key Stops on the F46 Route
 
+Important stops along the route include:
 
-{% include unit_link.html title="Recommended Guides" intro="Enhance your daily commute with these essential transport guides:" link1_url="/rta-intercity-bus-routes-connecting-dubai-to-other-cities/" link1_text="Complete RTA Intercity Routes Guide" link2_url="/biggest-bus-stn/" link2_text="Largest Bus Stations Infrastructure in UAE" %}
-
-The F46 bus route is designed to connect key areas in Dubai, making it a vital link for daily commuters. Starting from the bustling [Ibn Battuta Metro Station](/dpr1-bus-timings/), the bus winds through various important landmarks before reaching its terminus at Dubai Investment Park (DIP) 2.![F46 Bus Route](https://cdn.emzeth.com/img/2024/06/F24-Bus-Route.jpg)
-
-This route caters to both residents and employees working in the numerous commercial establishments along the way.
-
-- Jebel Ali Gardens, Turnoff
+- Ibn Battuta Bus Station
+- Jebel Ali Gardens Turnoff
 - Jebel Ali Free Zone Authority Interchange
-- The Green Community, Aa Building
-- The Green Community, Choithram Supermarket
+- The Green Community, AA Building
+- The Green Community, Choithrams Supermarket
 - The Green Community, West Gate Entrance
 - Dubai Investment Park Offices
 - The Green Community, Terrace Apartments
@@ -94,12 +98,23 @@ This route caters to both residents and employees working in the numerous commer
 - Dunes Village
 - Fastner World International
 - Dubai Pearl Gypsum Industries
-- Dip, Amb Building
-- Dip, Madina Supermarket Terminus
+- DIP AMB Building
+- DIP Madina Supermarket Terminus
 
-The entire route of the F46 bus covers approximately 28 kilometers, with a total of 26 stops from Ibn Battuta to the DIP Madina Supermarket Terminus. The journey typically takes around 34 minutes, depending on traffic conditions and time of day.## Journey Experience
+{% include unit_link.html title="Recommended Guides" intro="Enhance your daily commute with these essential transport guides:" link1_url="/rta-intercity-bus-routes-connecting-dubai-to-other-cities/" link1_text="Complete RTA Intercity Routes Guide" link2_url="/biggest-bus-stn/" link2_text="Largest Bus Stations Infrastructure in UAE" %}
 
-It also passes near Expo City Dubai, a landmark from the world-famous Expo 2020. As the route heads toward Dubai Investment Park, passengers get a glimpse of a growing area that blends residential, commercial, and industrial zones. Despite the length of the journey, it provides a fascinating view of Dubaiâ€™s dynamic growth and contrasts between modern city life and emerging suburban developments.## Conclusion
+## Why Riders Use F46
 
-The F46 bus route is a testament to Dubaiâ€™s efficient public transport system, offering residents and visitors a reliable means to traverse key parts of the city. And knowing the f46 bus timings is very important for the passengers. Whether you're heading to work, shopping, or just exploring, the F46 bus provides a convenient and comfortable journey across Dubai's diverse urban landscape.
+- Metro connection from Ibn Battuta into DIP and Green Community
+- Practical route for office workers and service staff in DIP
+- Useful link for residents who need a direct bus after the Metro
 
+## Travel Tips
+
+- Peak crowding usually builds during work start and end times, so arrive a little early if you need a seat.
+- Save the PDF timetable on your phone if you travel this route often.
+- If you are unsure which DIP stop is closest to your destination, check the RTA planner before boarding.
+
+## Summary
+
+F46 is one of the most practical feeder services for riders moving between Ibn Battuta and Dubai Investment Park. The route is straightforward, the timetable is predictable, and the Metro connection makes it a strong option for daily commuting.

@@ -1,22 +1,27 @@
-﻿---
-title: C1 Bus Timings  Airport Terminal to Satwa Bus Station
+---
+title: "C1 Bus Timings: Airport Terminal 3 to Satwa Bus Station"
 layout: post
 author: Al Khaleej
 categories:
 - Bus Timings
 image: https://cdn.emzeth.com/img/2024/06/C1-Bus-Timings.jpg
 featured: true
+description: "Dubai C1 bus timetable, route overview, and travel tips for Airport Terminal 3 to Satwa Bus Station."
+last_modified_at: 2026-05-16
+official_sources:
+  - name: Roads and Transport Authority (Dubai)
+    url: https://www.rta.ae/
+  - name: RTA Journey Planner
+    url: https://www.rta.ae/wps/PA_JourneyPlanner/Home.html
+  - name: RTA C01 Timetable Download
+    url: "https://www.rta.ae/wps/PA_JourneyPlanner/DownloadTimetableServlet?lineId=dub:01C01:%20:H:y08&lineName=bus%20C01"
 ---
 
-Just touched down in Dubai? Feeling a bit lost? No sweat! Grab the C1 bus - it's your golden ticket to the city. This route's a real MVP, zipping from Airport Terminal 3 straight to Al Satwa Bus Station. And let me tell you, Satwa's where it's at. It's not just a stop, it's a whole experience.
-
-Picture this: bustling streets, shops galore, and food that'll make your taste buds dance. It's old Dubai meets melting pot, all in one lively neighborhood. So hop on the C1. It's not just a ride, it's your backstage pass to the real Dubai. Way more fun than just gawking at tall buildings, trust me!
-
-Contents
+Dubai Bus C1 links Airport Terminal 3 with Satwa Bus Station and passes several useful transfer points in Deira and Bur Dubai. It is one of the more practical city routes for airport arrivals, shift workers, and riders connecting between the airport corridor, Union, Gold Souq, and Satwa.
 
 ## C1 Bus Timings
 
-The C1 bus operates 24 hours a day, seven days a week, ensuring that passengers have access to transportation at any time. The frequency of the buses varies slightly throughout the week. This consistent schedule makes the C1 bus a reliable option for both early-morning flights and late-night returns. And here is the detail of C1 bus timings.
+Use the timetable below for scheduled departures in each direction.
 
 | From Airport Terminal | From Satwa Bus Station |
 |---|---|
@@ -98,71 +103,57 @@ The C1 bus operates 24 hours a day, seven days a week, ensuring that passengers 
 | 03:55 | 03:50 |
 | 04:30 | 04:30 |
 
-To view the full schedule, you can check the official RTA website or click this link for [C1 Bus Timings](https://www. rta. ae/wps/PA_JourneyPlanner/DownloadTimetableServlet? lineId=dub:01C01:%20: H: y08&lineName=bus%20C01).## C1 Bus Route
+[Download PDF Bus C1](/assets/pdf/rta-dubai/bus_C01_Timetable.pdf)
 
-The C1 bus route is a vital link between some of the most significant locations in Dubai. Starting from Airport Terminal 3, it runs through various key areas before reaching its final stop at Al Satwa Bus Station. Here are the primary stops along the C1 route![C1 Bus Route](https://cdn.emzeth.com/img/2024/06/C1-Bus-Route.jpg)
+If you are making a time-sensitive trip, confirm the latest departures in the official RTA planner before leaving.
 
-1. Airport Terminal 3
+## Main Stops on the C1 Route
 
-2. Airport Terminal 1
+The C1 route covers major transfer points and residential areas including:
 
-3. Cargo Village
-
-4. Flame Intersection
-
-5. DNATA
-
-6. Clock Tower Roundabout
-
-7. Maktoum Road
-
-8. Etisalat Head Office
-
-9. Union Metro Station
-
-10. Al Nakhal
-
-11. Burj Nahar Intersection
-
-
+- Airport Terminal 3
+- Airport Terminal 1
+- Cargo Village
+- Flame Intersection
+- DNATA
+- Clock Tower Roundabout
+- Maktoum Road
+- Etisalat Head Office
+- Union Metro Station
+- Al Nakhal
+- Burj Nahar Intersection
+- Naif Intersection
+- Gold Souq Bus Station
+- Raffa
+- Rolla
+- Sharaf DG Metro Station
+- Standard Chartered Bank
+- Sheikh Rashid Road Intersection
+- Hudheiba Turnoff
+- Hana Center
+- Satwa Masjid
+- Satwa Clinic
+- Satwa Bus Station
 
 {% include unit_link.html title="Recommended Guides" intro="Enhance your daily commute with these essential transport guides:" link1_url="/rta-intercity-bus-routes-connecting-dubai-to-other-cities/" link1_text="Complete RTA Intercity Routes Guide" link2_url="/biggest-bus-stn/" link2_text="Largest Bus Stations Infrastructure in UAE" %}
 
-12. Naif Intersection
+## Fare and Payment
 
-13. Gold Souq Bus Station
+You need a Nol card to ride C1. The exact fare depends on the zones crossed, so check the current amount in the RTA app, station ticket machines, or the journey planner before you travel.
 
-14. Raffa
+## When C1 Is Most Useful
 
-15. Rolla
+- Airport to city travel without switching to the Metro immediately
+- Direct access to Union and Gold Souq areas
+- Late-night and early-morning trips when continuous service matters
+- Reaching Satwa from the airport corridor with one bus
 
-16. Sharaf DG Metro Station
+## Travel Tips
 
-17. Standard Chartered Bank
+- Keep your Nol card topped up before boarding, especially during late-night travel.
+- If you are carrying luggage from the airport, board early when possible to find easier standing room or seating.
+- Union and Gold Souq are strong transfer points if you need to continue deeper into Deira or Bur Dubai.
 
-18. Sheikh Rashid Road Intersection
+## Summary
 
-19. Hudheiba Turnoff
-
-20. Hana Center
-
-21. Satwa, Masjid
-
-22. Satwa, Clinic
-
-23. Satwa Bus Station
-
-This route covers a total of 24 stops, making it an extensive service that touches on both residential and commercial hubs. Other bus routes in Dubai that you can explore include the [E700 bus route](https://uaetiming. com/dubai-to-fujairah-bus-timing/), which runs from Dubai to Fujairah, and the [E307A bus route](https://uaetiming. com/dubai-to-sharjah-bus-e307a-route-and-stop-information/), which travels from Abu Hail Bus Station to Al Jubail Bus Station.**Read Also**: [C18 Bus Timings](https://uaetiming. com/c18-bus-timings/) ## Fare
-
-The Nol card, a smart card used for all types of public transportation in Dubai, is required to pay the fare.
-
-The card can be topped up at metro stations, bus stations, and various retail outlets. Fares typically range from AED 3 to AED 7.5 depending on the distance and zones traveledâ€‹.## Journey Experience
-
-Departing from the Airport Terminal, the bus weaves through bustling neighborhoods, providing passengers with views of iconic landmarks such as the Dubai World Trade Centre and the vibrant Al Karama area, known for its eclectic mix of shops and restaurants.
-
-As the bus makes its way to Satwa, riders can admire the cityâ€™s modern architecture alongside traditional markets, including the famous Karama Market, where visitors can find everything from textiles to souvenirs. The journey concludes at Satwa Bus Station, a key transit point surrounded by cultural gems like the historic Dubai Frame and the colorful Satwa district, making this trip a great introduction to Dubai's rich blend of tradition and modernity.## Conclusion
-
-Whether you're a resident commuting to work or a visitor exploring Dubai, the C1 bus offers a convenient and reliable means of transportation. With its extensive route, frequent service, and easy payment options, the C1 bus is a cornerstone of Dubai's public transit system. And knowing the c1 bus timing is very important to you who want to travel with c1 bus route.## FAQs
-
-**What time does the C1 bus start?**The C1 bus operates 24/7, and the first bus depart at 03.27 and the last bus depart at 02.57**How often does the C1 bus run?**The frequency ranges from 8 to 16 minutes, depending on the day of the week.**How much is the fare for the C1 bus?**Fares range from AED 3 to AED 7.5, depending on the number of zones traveled.
-
+The C1 is a dependable Dubai city route for riders moving between the airport area and older central neighbourhoods. Save the timetable, keep your Nol card ready, and use the official RTA links below whenever you need to verify live service changes.
