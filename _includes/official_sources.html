@@ -1,7 +1,7 @@
 {% assign categories_text = page.categories | join: '|' | downcase %}
 <section class="official-sources" aria-label="Official source references">
-    <h2>Official UAE Sources</h2>
-    <p>For the latest schedules, fares, and policy updates, verify with these primary sources:</p>
+    <h2>Official and Primary Sources</h2>
+    <p>Use these links to confirm live schedules, fares, route changes, and policy updates before you travel.</p>
     <ul>
         {% if page.official_sources and page.official_sources.size > 0 %}
             {% for source in page.official_sources %}
@@ -9,7 +9,7 @@
             {% endfor %}
         {% elsif categories_text contains 'bus timings' or categories_text contains 'bus-timings' or categories_text contains 'public transport' or categories_text contains 'trip planner' %}
             <li><a href="https://www.rta.ae/wps/PA_JourneyPlanner/Home.html" target="_blank" rel="noopener noreferrer">RTA Journey Planner</a></li>
-            <li><a href="https://www.rta.ae/wps/PA_JourneyPlanner/DownloadTimetableServlet?lineId=dub:10100:%20:H:y08&amp;lineName=bus%20E100" target="_blank" rel="noopener noreferrer">RTA Intercity Timetable Reference (E100)</a></li>
+            <li><a href="https://www.rta.ae/" target="_blank" rel="noopener noreferrer">Roads and Transport Authority (Dubai)</a></li>
             <li><a href="https://admobility.gov.ae/" target="_blank" rel="noopener noreferrer">Abu Dhabi Mobility</a></li>
             <li><a href="https://www.srta.gov.ae/" target="_blank" rel="noopener noreferrer">Sharjah Roads and Transport Authority (SRTA)</a></li>
         {% elsif categories_text contains 'uae-visa-id' or categories_text contains 'uae immigration' %}

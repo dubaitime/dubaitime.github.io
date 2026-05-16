@@ -2,10 +2,28 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	{% assign meta_title = page.title | default: site.page_title | default: site.app_name %}
+	{% assign meta_description = page.description | default: page.excerpt | default: site.app_description | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+	{% assign social_description = page.description | default: page.excerpt | default: site.app_description | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 200 %}
+	{% assign social_image = page.image | default: site.default_og_image %}
+	{% assign is_paginated_archive = false %}
+	{% if paginator %}
+		{% if paginator.page > 1 %}
+			{% assign is_paginated_archive = true %}
+		{% endif %}
+	{% endif %}
+	{% assign is_archive_page = false %}
+	{% if page.type == 'category' or page.type == 'tag' or page.type == 'year' or page.type == 'month' or page.type == 'day' %}
+		{% assign is_archive_page = true %}
+	{% endif %}
+	{% assign is_noindex = false %}
+	{% if page.sitemap == false or page.noindex or page.redirect_to or is_paginated_archive or is_archive_page %}
+		{% assign is_noindex = true %}
+	{% endif %}
 
 	<title>{% if page.title %}{{ page.title }} | {{ site.app_name }}{% else %}{{ site.page_title | default: site.app_name }}{% endif %}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.app_description | truncate: 160 }}{% endif %}">
-	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="{{ meta_description }}">
+	<meta name="robots" content="{% if is_noindex %}noindex, follow{% else %}index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1{% endif %}">
 	<meta name="google-site-verification" content="AN0yrupxnL-R2mChpYvct9OmKK5hpXLUq40edz8dgbg" />
 	<meta name="msvalidate.01" content="669B7B1ADB3E072850ADB10DBE2323F7" />
 	{% if page.layout == 'post' %}<meta name="author" content="{{ page.author | default: site.author }}">{% endif %}
@@ -14,19 +32,19 @@
 
 	<!-- Open Graph -->
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.app_name }}{% endif %}">
-	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 200 }}{% else %}{{ site.app_description | truncate: 200 }}{% endif %}">
+	<meta property="og:description" content="{{ social_description }}">
 	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta property="og:site_name" content="{{ site.app_name }}">
 	<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-	{% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+	<meta property="og:image" content="{{ social_image | absolute_url }}">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.app_name }}{% endif %}">
-	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 200 }}{% else %}{{ site.app_description | truncate: 200 }}{% endif %}">
-	{% if page.image %}<meta name="twitter:image" content="{{ page.image | absolute_url }}">{% endif %}
+	<meta name="twitter:description" content="{{ social_description }}">
+	<meta name="twitter:image" content="{{ social_image | absolute_url }}">
 
-	<!-- Structured Data for Articles (JSON-LD only — Microdata on body is the visual layer) -->
+	<!-- Structured Data for Articles -->
 	{% if page.layout == 'post' %}
 	{% assign post_author = site.authors[page.author] %}
 	<script type="application/ld+json">
@@ -34,8 +52,8 @@
 		"@context": "https://schema.org",
 		"@type": "Article",
 		"headline": "{{ page.title | escape }}",
-		"description": "{{ page.description | default: page.excerpt | strip_html | truncate: 200 | escape }}",
-		{% if page.image %}"image": "{{ page.image | absolute_url }}",{% endif %}
+		"description": "{{ page.description | default: page.excerpt | default: site.app_description | strip_html | truncate: 200 | escape }}",
+		"image": "{{ social_image | absolute_url }}",
 		"datePublished": "{{ page.date | date_to_xmlschema }}",
 		"dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
 		{% if page.official_sources and page.official_sources.size > 0 %}
@@ -70,10 +88,10 @@
 	<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 	<meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
 	<meta property="article:author" content="{{ site.url }}/author/">
-	<meta property="article:section" content="{{ page.categories.first }}">
+	<meta property="article:section" content="{{ page.categories.first | default: 'Guides' }}">
 	{% endif %}
 
-	<!-- Organization + WebSite Schema (non-post pages) -->
+	<!-- Organization + WebSite Schema -->
 	{% unless page.layout == 'post' %}
 	<script type="application/ld+json">
 	{
@@ -108,18 +126,13 @@
 		"@type": "WebSite",
 		"name": "{{ site.app_name }}",
 		"url": "{{ site.url }}",
-		"description": "{{ site.app_description | escape }}",
-		"potentialAction": {
-			"@type": "SearchAction",
-			"target": "{{ site.url }}/search?q={search_term_string}",
-			"query-input": "required name=search_term_string"
-		}
+		"description": "{{ site.app_description | escape }}"
 	}
 	</script>
 	{% endif %}
 	{% endunless %}
 
-	<!-- BreadcrumbList Structured Data (posts only) -->
+	<!-- BreadcrumbList Structured Data -->
 	{% if page.layout == 'post' %}
 	<script type="application/ld+json">
 	{
@@ -135,8 +148,8 @@
 			{
 				"@type": "ListItem",
 				"position": 2,
-				"name": "{{ page.categories.first | capitalize }}",
-				"item": "{{ site.url }}/category/{{ page.categories.first | slugify }}/"
+				"name": "Topics",
+				"item": "{{ site.url }}/topics/"
 			},
 			{
 				"@type": "ListItem",
