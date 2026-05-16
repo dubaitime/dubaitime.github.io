@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Topics — Dubai Time"
+title: "Topics - Dubai Time"
 permalink: /topics/
-description: "Browse all topic hubs on Dubai Time — from bus timings and UAE visas to banking, city guides, and shopping. Topically organised for quick navigation."
+description: "Browse all topic hubs on Dubai Time - from bus timings and UAE visas to banking, city guides, and shopping. Topically organised for quick navigation."
 ---
 
 <section class="topics-index-section">

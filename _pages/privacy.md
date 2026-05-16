@@ -2,80 +2,58 @@
 title: Privacy
 layout: page
 permalink: "/privacy/"
-comments: true
+description: "Privacy policy for Dubai Time."
 ---
 
-# Privacy Policy for DubaiTime
+# Privacy Policy for Dubai Time
 
-Welcome to DubaiTime! This Privacy Policy describes how we collect, use, and disclose your information when you use our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
+This page explains what information Dubai Time may collect when you use the website and how that information is handled.
 
 ## Information We Collect
 
-We may collect the following information when you use the Service:
+We may collect limited technical information that helps the site operate and improve.
 
-### Non-Personally Identifiable Information (Non-PII)
-This information does not identify you as an individual. It may include:  
-- Browser type  
-- Operating system  
-- IP address  
-- Pages you visit on our website  
-- Dates and times of your visits  
+### Technical Usage Data
 
-We collect this information through cookies and similar tracking technologies.
+- Browser type
+- Device or operating system information
+- Approximate IP-based location
+- Pages visited on the site
+- Visit times and referral sources
 
----
+We may collect this through cookies, analytics tools, and standard web server logs.
 
 ## How We Use Your Information
 
-We use the information we collect for the following purposes:  
-- To operate and maintain the Service  
-- To improve the user experience  
-- To personalize the content you see on the website  
-- To analyze how the Service is used  
-- To send you updates and information about the Service  
-
----
+- To operate and maintain the website
+- To understand which guides are useful to readers
+- To improve site structure, page clarity, and performance
+- To investigate abuse, spam, or technical problems
 
 ## Cookies
 
-We use cookies to store information and preferences on your device. This helps us:  
-- Improve your user experience  
-- Provide a more personalized service  
+Dubai Time may use cookies and similar technologies to remember preferences, measure traffic, and improve performance.
 
-**Managing Cookies**  
-You can manage or disable cookies through your browser settings. Please note that disabling cookies may limit your ability to use certain features of the Service.
-
----
+You can manage or disable cookies through your browser settings. Disabling cookies may affect some site features or analytics.
 
 ## Sharing Your Information
 
-We will not share your information with any third party except in the following circumstances:  
-- To comply with legal requirements or court orders  
-- To protect our rights and property  
-- To protect the safety of users of the Service  
-
----
+- To comply with applicable law or legal requests
+- To protect the site, its readers, or its operators
+- To work with service providers that support hosting, analytics, or security
 
 ## Security
 
-We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no website is 100% secure, and we cannot guarantee the security of your information.
+We take reasonable steps to protect information handled by the site. No internet service can guarantee complete security.
 
----
+## Third-Party Links
 
-## Children's Privacy
-
-Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.  
-
-If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
-
----
+Some pages link to third-party websites, including transport authorities, government portals, and app stores. Those sites have their own privacy policies and practices.
 
 ## Changes to this Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
----
+We may update this page from time to time. The latest version will always be published here.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at **[dubaitime@pm.me]**.
+If you have questions about this Privacy Policy, please contact **[adubaitime@gmail.com](mailto:adubaitime@gmail.com)**.

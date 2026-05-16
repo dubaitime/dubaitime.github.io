@@ -2,19 +2,37 @@
 layout: page
 title: Author
 permalink: /author/
+description: "Profile for Al Khaleej, editor of Dubai Time."
 ---
 
 ## About Al Khaleej
 
-Al Khaleej is the lead editor and strategist behind Dubai Time. With a focus on real-time news, essential services, and transportation updates, Al Khaleej ensures that residents and expats have access to the most reliable and up-to-date information in the UAE.
+Al Khaleej is the editor behind Dubai Time, with a focus on UAE transport, local services, visa guidance, banking explainers, and practical city guides.
 
-### Academic & Professional Credentials
-- **Lead Author:** Dubai Time
-- **Academic Profile:** [Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=zLa9Up4AAAAJ)
+## Focus Areas
 
-### Our Mission
-Dubai is ever-evolving, and so are we. Our mission is to serve as a trusted, timely resource for everyone looking to navigate the city with ease and confidence. We aim to empower our audience with knowledge and insights, making Dubai accessible and engaging for everyone.
+- Dubai and UAE public transport
+- Visa, ID, and administrative guides
+- Banking and day-to-day city services
 
+## Credentials and Contact
 
-### Why Trust Dubai Time?
-Accuracy, timeliness, and relevance are at the heart of what we do. We prioritize delivering credible, up-to-the-minute information so you can rely on us for your day-to-day decisions, whether you’re commuting, planning a day out, or managing essential tasks in Dubai.
+- Lead editor, Dubai Time
+- Public academic profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=zLa9Up4AAAAJ)
+- Editorial contact: [adubaitime@gmail.com](mailto:adubaitime@gmail.com)
+
+## Latest Articles
+
+{% assign author_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign mapped_author = site.authors[post.author].display_name | default: post.author %}
+  {% if mapped_author == "Al Khaleej" %}
+    {% assign author_posts = author_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+<ul>
+{% for post in author_posts limit: 10 %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</li>
+{% endfor %}
+</ul>

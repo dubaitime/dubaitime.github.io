@@ -1,56 +1,40 @@
 ---
-title: "Contact Dubai Time — Get in Touch"
+title: "Contact Dubai Time"
 layout: page
 permalink: "/contact/"
-description: "Contact Dubai Time for editorial inquiries, content corrections, advertising, or general questions about Dubai's transport, services, and lifestyle guides."
+description: "Contact Dubai Time for editorial enquiries, corrections, and partnership requests."
 ---
 
 ## Get in Touch
 
-Dubai Time is published by **Al Khaleej**, lead editor and UAE resident committed to delivering accurate, timely information for expats and residents across the Emirates.
+Dubai Time is published by **Al Khaleej**, editor of Dubai Time and the main point of contact for editorial questions, corrections, and partnership requests.
 
-We welcome all genuine inquiries — from readers, researchers, and organizations alike.
+We welcome genuine enquiries from readers, researchers, and organisations.
 
----
-
-### 📧 Editorial & Content
+### Editorial and Content
 
 For article corrections, factual updates, or editorial contributions:
 
 **Email:** [adubaitime@gmail.com](mailto:adubaitime@gmail.com)
 
-We aim to respond to editorial inquiries within **2–3 business days.**
+We aim to respond to editorial enquiries within **2 to 3 business days**.
 
----
+### Corrections and Updates
 
-### 🔍 Fact Corrections & Updates
+If a page contains outdated or incorrect information, please send the article URL and the correction you want us to review.
 
-Dubai is a fast-moving city. If any information on our site is outdated or incorrect, we take that seriously. Please email us with the article URL and the specific correction — we will review and update the content promptly.
-
----
-
-### 🤝 Collaboration & Partnership
+### Collaboration and Partnerships
 
 Interested in working with Dubai Time? We consider:
 
-- Guest editorial contributions (transport, visa, city life topics)
-- Data partnerships with UAE government or transport authorities
-- Targeted content sponsorships aligned with our editorial standards
+- Guest editorial contributions about transport, visas, and city life
+- Data partnerships with UAE transport or public-service authorities
+- Clearly labelled sponsorships that fit our editorial standards
 
-All collaboration requests should be sent to [adubaitime@gmail.com](mailto:adubaitime@gmail.com) with a brief description of your proposal.
+All collaboration requests should be sent to [adubaitime@gmail.com](mailto:adubaitime@gmail.com) with a short description of your proposal.
 
----
+### Coverage Area
 
-### 👤 About the Editor
+Dubai Time serves readers in Dubai and across the United Arab Emirates, with primary editorial coverage of **Dubai**, **Abu Dhabi**, **Sharjah**, and the **Northern Emirates**.
 
-**Al Khaleej** is the founder and editor of Dubai Time, with firsthand experience navigating life as a UAE resident. Academic profile and research credentials are publicly available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=zLa9Up4AAAAJ).
-
----
-
-### 🏙️ Location
-
-Dubai Time serves readers based in Dubai and across the United Arab Emirates. Our editorial focus is the UAE, with primary coverage of **Dubai** and the **Northern Emirates**.
-
----
-
-*We do not publish unsolicited commercial content or paid-for articles presented as editorial. Our content standards are editorial-first.*
+*We do not publish paid material disguised as editorial coverage.*

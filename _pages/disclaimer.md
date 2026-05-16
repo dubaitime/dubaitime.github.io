@@ -2,57 +2,41 @@
 title: Disclaimer
 layout: page
 permalink: "/disclaimer/"
-comments: true
+description: "Editorial and liability disclaimer for Dubai Time."
 ---
 
-# Disclaimer for DubaiTime
+# Disclaimer for Dubai Time
 
-Welcome to DubaiTime! This Disclaimer outlines the limitations of liability and important notices regarding the use of our website, [Dubaitime.github.io](https://dubaitime.github.io) (the "Service").
-
----
+The information on Dubai Time is published for general informational purposes only.
 
 ## General Information
 
-The information provided on this website is for general informational purposes only. While we strive to keep the information accurate and up-to-date, we make no guarantees about the completeness, reliability, or accuracy of the content. Any reliance you place on such information is strictly at your own risk.
-
----
+We work to keep pages clear and useful, but we cannot guarantee that every timetable, fare, route, opening hour, or policy remains current at all times.
 
 ## External Links
 
-The Service may contain links to external websites that are not provided or maintained by, or in any way affiliated with, DubaiTime.  
+Dubai Time may link to external websites that are not controlled by us.
 
-We do not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites. Users should review the privacy policies and terms of use of those sites before engaging with them.
-
----
+We are not responsible for the content, availability, or policies of third-party websites.
 
 ## No Professional Advice
 
-The content on this website does not constitute professional advice. DubaiTime is not responsible for any actions taken based on the information provided on this site. For professional or specialized advice, consult a qualified expert.
-
----
+Nothing on this website should be treated as legal, immigration, financial, tax, medical, or other professional advice.
 
 ## Changes to Content
 
-DubaiTime reserves the right to modify or remove any content on this website at any time without prior notice. We are not obligated to update outdated information or correct inaccuracies, but we strive to maintain the highest standards of content quality.
+Pages may be updated, reorganised, or removed without notice as the site evolves.
 
----
+## Transport and Service Information
 
-## Technical Issues
-
-We aim to ensure uninterrupted access to the Service. However, DubaiTime is not liable for temporary unavailability of the website due to technical issues beyond our control.  
-
----
+Transport schedules, fares, and government service rules can change quickly. Always confirm time-sensitive details with the official authority linked on the page before traveling or taking action.
 
 ## Limitation of Liability
 
-In no event shall DubaiTime, its creators, or contributors be liable for any loss or damage, including but not limited to direct, indirect, incidental, consequential, or punitive damages arising from your use of, or inability to use, this website or its content.
-
----
+Dubai Time is not liable for losses or damages arising from reliance on site content, interruptions, or third-party service changes.
 
 ## Hosting Disclaimer
 
-DubaiTime is hosted on **GitHub Pages**, and certain technical aspects of the Service are managed by GitHub. Users are encouraged to review [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Privacy Policy](https://docs.github.com/privacy) for more information.
+Dubai Time is hosted on **GitHub Pages**, and some technical aspects of site delivery are therefore handled by GitHub. You can review [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Privacy Policy](https://docs.github.com/privacy) for more information.
 
----
-
-*By using this website, you agree to this Disclaimer and its terms. If you do not agree, please refrain from using the Service.*
+By using the site, you agree to this disclaimer.
