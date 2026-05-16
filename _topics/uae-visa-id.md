@@ -4,7 +4,7 @@ title: "UAE Visa & ID"
 slug: "uae-visa-id"
 icon: "🛂"
 permalink: /topics/uae-visa-id/
-description: "Practical guides on UAE visas, Emirates ID, entry permits, fines, and residency rules — everything you need to live and work legally in the UAE."
+description: "Practical guides on UAE visas, Emirates ID, entry permits, fines, and residency rules - everything you need to live and work legally in the UAE."
 keywords: "UAE visa guide, Emirates ID, entry permit, UAE residency, work permit UAE"
 last_updated: "2026"
 category_match:
