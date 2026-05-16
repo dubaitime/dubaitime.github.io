@@ -7,9 +7,8 @@ baseurl: ''
 url: "https://dubaitime.github.io"
 author: Al Khaleej
 app_name: "Dubai Time"
-app_description: "Your real-time guide to Dubai news, transport, services and lifestyle — trusted by UAE residents and expats."
+app_description: "Your real-time guide to Dubai news, transport, services, and lifestyle - trusted by UAE residents and expats."
 default_og_image: "assets/images/hero-cover.jpg"
-google_analytics: 'UA-209667013-4'
 include:
   - _pages
 permalink: '/:title/'
@@ -19,7 +18,7 @@ authors:
     display_name: Al Khaleej
     email: adubaitime@gmail.com
     twitter: ''
-    description: "Your real-time guide to Dubai life to make your expat experience truly exceptional."
+    description: "Dubai Time covers practical UAE transport, service, and city-life guides for residents and expats."
     web: "https://dubaitime.github.io"
     gravatar: 77791e95da3e5d3f4e471444fc78bf71
   Al Khaleej:
@@ -27,26 +26,14 @@ authors:
     display_name: Al Khaleej
     email: adubaitime@gmail.com
     twitter: ''
-    description: "Al Khaleej is the lead editor at Dubai Time — covering UAE transport, banking, visa services, and city guides. Trusted by residents and expats across the Emirates for accurate, up-to-date local information."
+    description: "Al Khaleej is the lead editor at Dubai Time - covering UAE transport, banking, visa services, and city guides for residents and expats."
     scholar: "https://scholar.google.com/citations?hl=en&user=zLa9Up4AAAAJ"
     web: "https://dubaitime.github.io/author/"
     gravatar: 77791e95da3e5d3f4e471444fc78bf71
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-paginate: 6
-paginate_path: '/page:num/'
 markdown: kramdown
 kramdown:
   input: GFM
@@ -79,6 +66,15 @@ defaults:
       type: "pages"
     values:
       layout: page
+  - scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
+  - scope:
+      path: "sot-simple/tts.html"
+    values:
+      sitemap: false
+      noindex: true
 
 exclude:
   - changelog.md
