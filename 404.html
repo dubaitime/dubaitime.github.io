@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Page Not Found (404) — UAE Bus Time</title>
+  
+  <meta name="description" content="The page you are looking for does not exist. Return to UAE Bus Time homepage." />
+  <meta name="theme-color" content="#13633d" />
+
+  <link rel="icon" type="image/png" href="./techico.png" />
+  <link rel="apple-touch-icon" href="./techico.png" />
+
+  <!-- Google Fonts & FontAwesome -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <link rel="stylesheet" href="./style.css" />
+  <style>
+    .error-wrapper {
+      min-height: calc(100vh - 160px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: calc(var(--nav-height) + 2rem) 1.5rem 3rem;
+    }
+    .error-card {
+      background: #ffffff;
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-xl);
+      padding: 3.5rem 2.5rem;
+      max-width: 580px;
+      box-shadow: var(--shadow-lg);
+    }
+    .error-code {
+      font-size: 5rem;
+      font-weight: 900;
+      color: var(--primary-color);
+      line-height: 1;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="./index.html" class="brand-logo">
+        <img src="./techico.png" alt="UAE Bus Time Logo" class="logo-img" />
+        <div class="brand-text">
+          <span class="brand-title">UAE Bus Time</span>
+          <span class="brand-sub">By Karinov &bull; Dubai Time</span>
+        </div>
+      </a>
+
+      <nav class="nav-menu">
+        <a href="./index.html" class="nav-link">Home</a>
+        <a href="./about.html" class="nav-link">About</a>
+        <a href="./index.html#features" class="nav-link">Features</a>
+        <a href="./index.html#faq" class="nav-link">FAQs</a>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="https://play.google.com/store/apps/details?id=com.karinov.uae.bustiming" target="_blank" rel="noopener noreferrer" class="btn btn-primary nav-download-btn">
+          <i class="fa-brands fa-google-play"></i>
+          <span>Get Free App</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="error-wrapper">
+    <div class="error-card">
+      <div class="error-code">404</div>
+      <h1 style="font-size: 1.8rem; margin-bottom: 1rem;">Route Not Found</h1>
+      <p style="color: var(--text-secondary); margin-bottom: 2rem; font-size: 1rem;">
+        The stop or page you are trying to reach seems to have changed routes or does not exist.
+      </p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="./index.html" class="btn btn-primary">
+          <i class="fa-solid fa-house"></i> Return to Home
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.karinov.uae.bustiming" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+          <i class="fa-brands fa-google-play"></i> Get App on Play Store
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer" style="padding-top: 2rem;">
+    <div class="footer-bottom" style="border: none;">
+      <div class="container footer-bottom-inner">
+        <p>&copy; 2026 UAE Bus Time &bull; All rights reserved. Developed by Karinov.</p>
+        <div class="footer-legal">
+          <a href="./about.html">About Us</a>
+          <span>&bull;</span>
+          <a href="./privacy.html">Privacy Policy</a>
+          <span>&bull;</span>
+          <a href="./terms.html">Terms of Service</a>
+          <span>&bull;</span>
+          <a href="./disclaimer.html">Disclaimer</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
