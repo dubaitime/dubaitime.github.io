@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dubaitime-app.github.io/sitemap.xml
+Sitemap: https://dubaitime.github.io/sitemap.xml
